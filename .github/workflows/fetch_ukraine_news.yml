@@ -1,0 +1,41 @@
+name: Fetch Ukraine News
+
+on:
+  schedule:
+    # 6 AM EST = 11:00 UTC | 6 PM EST = 23:00 UTC
+    - cron: "0 11 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch:  # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news fetcher
+        run: python fetch_ukraine_news.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ukraine_news.json
+          # Only commit if there are actual changes
+          git diff --cached --quiet || git commit -m "chore: update ukraine_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
