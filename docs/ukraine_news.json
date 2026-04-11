@@ -1,7 +1,266 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-04-10T23:28:52Z",
+  "last_updated": "2026-04-11T11:38:39Z",
   "stories": [
+    {
+      "title": "Russians drop FAB-250 on central Kramatorsk, wounding 10",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111460-russians-drop-fab250-on-central-kramatorsk-wounding-10.html",
+      "published_date": "2026-04-11T11:22:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "There was an exchange of prisoners: 175 military and 7 civilians returned home from Russian captivity",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/vidbuvsya-obmin-polonenymy-175-vijskovyh-i-7-tsyvilnyh-povernulysya-dodomu-z-rosijskogo-polonu/",
+      "published_date": "2026-04-11T11:09:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Defenders of Mariupol and Chornobyl among 182 released in latest Ukraine-Russia prisoner swap",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029751/",
+      "published_date": "2026-04-11T11:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky: Ukraine will respond in kind if ceasefire is violated",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111457-zelensky-ukraine-will-respond-in-kind-if-ceasefire-is-violated.html",
+      "published_date": "2026-04-11T10:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Former British Prime Minister Johnson visited the Ukrainian military on the Zaporizhia front",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/dzhonson-vidvidav-ukrayinskyh-vijskovyh/",
+      "published_date": "2026-04-11T10:53:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "A charity evening with borscht was held in Massachusetts: more than 28,000 dollars were collected for Ukraine",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/u-massachusetsi-provely-blagodijnyj-vechir-iz-borshhem-zibraly-ponad-28-tysyach-dolariv-dlya-ukrayiny/",
+      "published_date": "2026-04-11T10:41:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CinC Syrskyi visits Southern Operational Zone, coordinates defense efforts",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111456-cinc-syrskyi-visits-southern-operational-zone-coordinates-defense-efforts.html",
+      "published_date": "2026-04-11T10:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyi and Syrskyi agreed on the procedure of the Armed Forces of Ukraine for the period of the Easter ceasefire",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/zelenskyj-ta-syrskyj-uzgodyly-poryadok-dij-zsu-na-period-velykodnogo-peremyr-ya/",
+      "published_date": "2026-04-11T10:17:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Boris Johnson visits Defense Forces positions in Zaporizhzhia sector of front",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4111452-boris-johnson-visits-defense-forces-positions-in-zaporizhzhia-sector-of-front.html",
+      "published_date": "2026-04-11T09:57:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "\"Sisyphus\": The first medic created his own digital system to control the evacuation of the wounded",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/systema-dlya-kontrolyu-evakuatsiyi-poranenyh/",
+      "published_date": "2026-04-11T09:56:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy and commander-in-chief agree on Ukraine's course of action during Easter truce",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029742/",
+      "published_date": "2026-04-11T09:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Train to the sea: Ukraine and Bulgaria plan to launch a train to Varna via Romania",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/ukrayina-ta-bolgariya-planuyut-zapustyty-poyizd/",
+      "published_date": "2026-04-11T09:32:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drone strike kills man in Nikopol",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111444-drone-strike-kills-man-in-nikopol.html",
+      "published_date": "2026-04-11T09:27:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Germany funds armored medevac fleet for Ukraine as one vehicle survives triple drone strike",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/04/11/germany-funds-armored-medevac-fleet-for-ukraine-as-one-vehicle-survives-triple-drone-strike/",
+      "published_date": "2026-04-11T09:22:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "US Democratic senators warn against extending sanctions waiver for Russian oil",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029743/",
+      "published_date": "2026-04-11T09:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In Khmelnytskyi, veterans have opened a service station and are refurbishing cars for people with disabilities",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/veterany-vidkryly-sto/",
+      "published_date": "2026-04-11T09:10:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tver hears blasts, Krasnodar burns: Ukraine’s drones reach deep into Russian rear",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/04/11/tver-hears-blasts-krasnodar-burns-ukraines-drones-reach-deep-into-russian-rear/",
+      "published_date": "2026-04-11T09:06:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Germany delivers another five medical evacuation vehicles to Ukraine",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029741/",
+      "published_date": "2026-04-11T09:06:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian forces attack two districts in Dnipropetrovsk region over 10 times, causing damage",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111420-russian-forces-attack-two-districts-in-dnipropetrovsk-region-over-10-times-causing-damage.html",
+      "published_date": "2026-04-11T08:57:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "In Russian Crimea, a fire broke out at an oil depot after a UAV attack",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/krymsku-pislya-ataky-bpla-vynykla-pozhezha-na-naftobazi/",
+      "published_date": "2026-04-11T08:56:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "UN: Civilian casualties in Ukraine rose 49% in March, with small drones killing more people than any other weapon",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/04/11/un-civilian-casualties-in-ukraine-rose-49-in-march-with-small-drones-killing-more-people-than-any-other-weapon/",
+      "published_date": "2026-04-11T08:55:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian players Polina Buhrova and Yevheniia Kantemir win European badminton championship bronze",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/ukrayinski-badmintonistky/",
+      "published_date": "2026-04-11T08:38:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians booby-trap another street in Kherson",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111416-russians-boobytrap-another-street-in-kherson.html",
+      "published_date": "2026-04-11T08:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia attacks lorries in Nikopol, killing a driver",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029736/",
+      "published_date": "2026-04-11T08:24:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Pre-Easter charity fair in support of Ukraine held in Tbilisi",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/04/11/yarmarok-na-pidtrymku-ukrayiny/",
+      "published_date": "2026-04-11T08:23:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian forces shell seven settlements in Kharkiv region, killing one and wounding another",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111413-russian-forces-shell-seven-settlements-in-kharkiv-region-killing-one-and-wounding-another.html",
+      "published_date": "2026-04-11T07:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drones attack oil depot in Russia's Krasnodar Krai",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029734/",
+      "published_date": "2026-04-11T07:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian forces kill one civilian and wound three in Donetsk region over past 24 hours",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111397-russian-forces-kill-one-civilian-and-wound-three-in-donetsk-region-over-past-24-hours.html",
+      "published_date": "2026-04-11T07:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pokrovsk and Kostiantynivka sectors hottest, 173 clashes reported in past 24 hours",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111395-pokrovsk-and-kostiantynivka-sectors-hottest-173-clashes-reported-in-past-24-hours.html",
+      "published_date": "2026-04-11T06:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Prosecutors reveal details of Russian attack on Odesa: people killed, destruction recorded – photo",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029732/",
+      "published_date": "2026-04-11T06:39:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Six wounded in Kherson region over past 24 hours in Russian attacks",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111390-six-wounded-in-kherson-region-over-past-24-hours-in-russian-attacks.html",
+      "published_date": "2026-04-11T06:33:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Air defense downs 133 of 160 Russian drones launched overnight",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4111388-air-defense-downs-133-of-160-russian-drones-launched-overnight.html",
+      "published_date": "2026-04-11T05:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump: \"Other countries\" will help reopen Strait of Hormuz",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029729/",
+      "published_date": "2026-04-11T05:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Another corps commander removed after loss of Siversk in Donetsk Oblast",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029722/",
+      "published_date": "2026-04-11T05:43:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Europe’s first Center for Ukrainian Unity to open in Berlin",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4111226-europes-first-center-for-ukrainian-unity-to-open-in-berlin.html",
+      "published_date": "2026-04-11T02:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two Ukrzaliznytsia officials in Kyiv suspected of UAH 4.4M embezzlement in equipment procurement case",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4111138-two-ukrzaliznytsia-officials-in-kyiv-suspected-of-uah-44m-embezzlement-in-equipment-procurement-case.html",
+      "published_date": "2026-04-11T01:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Three more countries interested in Ukraine’s drone defense experience – Zelensky",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4111078-three-more-countries-interested-in-ukraines-drone-defense-experience-zelensky.html",
+      "published_date": "2026-04-10T23:25:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Court sentences man who set fire to military vehicles to seven years in prison in Sumy region",
       "source": "Ukrinform",
@@ -10,11 +269,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Ukraine tips drone war in its favor",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/04/11/ukraine-tips-drone-war-in-its-favor/",
-      "published_date": "2026-04-10T22:02:54Z",
-      "category": "Military"
+      "title": "One person killed in Russian attack on Poltava Oblast",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/04/11/8029708/",
+      "published_date": "2026-04-10T21:48:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Russia's two largest car manufacturers report deepening crisis – intelligence",
@@ -29,13 +288,6 @@
       "url": "https://euromaidanpress.com/2026/04/10/russo-ukrainian-war-day-1507/",
       "published_date": "2026-04-10T20:51:15Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Invaders strike high-rise in Sumy with drone, casualties reported",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4111356-invaders-strike-highrise-in-sumy-with-drone-casualties-reported.html",
-      "published_date": "2026-04-10T20:42:00Z",
-      "category": "Military"
     },
     {
       "title": "Withdrawing from Donbas would give Russia a free path to Kharkiv and Dnipro, Zelenskyy warns",
@@ -59,60 +311,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Over 200 hectares in Khmelnytskyi region transferred to state from Russian and Belarusian owners",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111340-over-200-hectares-in-khmelnytskyi-region-transferred-to-state-from-russian-and-belarusian-owners.html",
-      "published_date": "2026-04-10T19:33:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Demonstrates consistent accuracy: The military demonstrated the operation of the Savage MSR 15 semi-automatic carbine",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/karabin-savage-msr-15/",
-      "published_date": "2026-04-10T19:30:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "United to win: Ukrainian community in Chicago holds Easter spiritual concert, raising funds for Ukraine’s armed forces",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/pashalnyj-duhovnyj-kontsert/",
-      "published_date": "2026-04-10T19:07:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "1,000 km from front line: Special Operations Forces strike oil rigs in Caspian Sea",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4111335-1000-km-from-front-line-special-operations-forces-strike-oil-rigs-in-caspian-sea.html",
-      "published_date": "2026-04-10T18:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Roman Oleksiv, who survived the rocket attack in Vinnytsia, will take part in the Boston Marathon",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/oleksiv-vizme-uchast-u-bostonskomu-marafoni/",
-      "published_date": "2026-04-10T18:55:19Z",
-      "category": "Military"
-    },
-    {
       "title": "Trump says Iran has \"no cards\" amid Pakistan talks",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029699/",
       "published_date": "2026-04-10T18:44:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Budanov explained why Russia avoids public mention of Ukrainian long-range strikes",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/ukrayinski-dalekobijni-udary/",
-      "published_date": "2026-04-10T18:39:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s An-series military transports were designed in Kyiv — and Moscow’s leaked documents show 143 of its 368 military Antonovs need urgent repair",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/04/10/russias-an-series-military-transports-were-designed-in-kyiv-and-moscows-leaked-documents-show-143-of-its-368-military-antonovs-need-urgent-repair/",
-      "published_date": "2026-04-10T18:36:41Z",
-      "category": "Military"
     },
     {
       "title": "Next Ramstein meeting to take place on April 15",
@@ -157,13 +360,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Missile wreckage found in garden in Poland",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029693/",
-      "published_date": "2026-04-10T17:44:00Z",
-      "category": "Military"
-    },
-    {
       "title": "In Vladikavkaz, Russian Federation, a large-scale fire broke out after the explosion: it is known about the victims",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/04/10/u-vladykavkazi-rf-pislya-vybuhu/",
@@ -178,13 +374,6 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine loses ECtHR case over ineffective investigation of 2015 attack on LGBT couple",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/ukrayina-prograla-spravu-v-yespl/",
-      "published_date": "2026-04-10T17:19:27Z",
-      "category": "Military"
-    },
-    {
       "title": "Why Ukrainians choose ClickCredit when money is needed urgently",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/04/10/chomu-ukrayinci-obirayut-clickcredit-koli-groshi-potribni-terminovo/",
@@ -192,74 +381,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Russian forces launch nearly 50 attacks on Dnipropetrovsk region, causing damage",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4111311-russian-forces-launch-nearly-50-attacks-on-dnipropetrovsk-region-causing-damage.html",
-      "published_date": "2026-04-10T17:05:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia's key Black Sea oil port resumes operations after Ukrainian strikes, Bloomberg reports",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029682/",
-      "published_date": "2026-04-10T16:42:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone hits apartment building in Sumy, woman injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4111307-russian-drone-hits-apartment-building-in-sumy-woman-injured.html",
-      "published_date": "2026-04-10T16:42:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia’s Black Sea oil hub resumes loading amid sustained Ukrainian drone campaign",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/04/10/russias-black-sea-oil-hub-resumes-loading/",
-      "published_date": "2026-04-10T16:41:03Z",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine's ambassador to EU: US remains an ally despite rising tensions",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029678/",
       "published_date": "2026-04-10T16:24:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Baltic states reject Russian claims of providing airspace for Ukrainian strikes",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111295-baltic-states-reject-russian-claims-of-providing-airspace-for-ukrainian-strikes.html",
-      "published_date": "2026-04-10T16:20:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian intelligence identifies Russians responsible for missile strike on Sumy on Palm Sunday 2025",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029680/",
-      "published_date": "2026-04-10T16:16:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian forces strike two Russian drilling platforms in Caspian Sea, Ukraine's General Staff reports – video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029663/",
-      "published_date": "2026-04-10T16:15:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes two Russian oil platforms in the Caspian Sea, nearly 1,000 km from the front",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/04/10/ukraine-strikes-two-russian-oil-platforms-in-the-caspian-sea/",
-      "published_date": "2026-04-10T16:07:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone hits apartment building in Sumy – photo",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029676/",
-      "published_date": "2026-04-10T16:00:00Z",
-      "category": "Military"
     },
     {
       "title": "Trump may extend waiver allowing purchases of Russian oil, Reuters says",
@@ -297,6 +423,13 @@
       "category": "Local Events"
     },
     {
+      "title": "Russia couldn’t take out Ukraine’s electricity. Now it wants the water.",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/04/10/ukraine-water-infrastructure-winter-2026/",
+      "published_date": "2026-04-10T14:16:15Z",
+      "category": "Energy"
+    },
+    {
       "title": "Head of Zelenskyy's Office optimistic about talks with Russia: \"I don't think it will take long\"",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029645/",
@@ -318,20 +451,6 @@
       "category": "Local Events"
     },
     {
-      "title": "The \"Angels\" unit conducted a complex multi-stage operation to evacuate civilians from the occupied territory",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/bagatoetapnu-operatsiyu-z-evakuatsiyi/",
-      "published_date": "2026-04-10T13:38:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Politico: Serbia could lose €1.5bn from EU over close ties with Moscow",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029635/",
-      "published_date": "2026-04-10T13:28:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "The Ukrainian Energy Exchange conducted the first cross-border agreement with electricity",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/04/10/ueb-uklala-ugodu/",
@@ -339,102 +458,11 @@
       "category": "Energy"
     },
     {
-      "title": "Former Russian deputy defence minister is sentenced to 19 years in prison",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029631/",
-      "published_date": "2026-04-10T13:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Ukrainian Unity Hub in Europe to open in Berlin next week",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029623/",
-      "published_date": "2026-04-10T13:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM on Easter ceasefire: Ukraine ready to respond in kind, details pending",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111247-fm-on-easter-ceasefire-ukraine-ready-to-respond-in-kind-details-pending.html",
-      "published_date": "2026-04-10T13:06:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "United to win: Lithuania invests €15 million to strengthen Ukraine’s rehabilitation system during war",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/reabilitatsiyi-v-ukrayini-pid-chas-vijny/",
-      "published_date": "2026-04-10T12:55:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyi: spring and summer will be a period of serious challenges for Ukraine",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/zelenskyj-vesna-i-lito-stanut-periodom-serjoznyh-vyklykiv-dlya-ukrayiny/",
-      "published_date": "2026-04-10T12:43:18Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Honorary consul in Monaco: Ukraine’s reconstruction already underway",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-society/4111234-honorary-consul-in-monaco-ukraines-reconstruction-already-underway.html",
       "published_date": "2026-04-10T12:37:00Z",
       "category": "Economy"
-    },
-    {
-      "title": "Russia strikes apartments in Konotop, Sloviansk, and Odesa, wounding three women",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/04/10/russia-strikes-apartments-in-konotop-sloviansk-and-odesa-wounding-at-least-three-women/",
-      "published_date": "2026-04-10T12:29:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Housing for IDPs: a modular town with 120 places has been put into operation in Chernivtsi region",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/zhytlo-dlya-vpo-u-chernivetskij-oblasti-zapratsyuvalo-modulne-mistechko-na-120-mists/",
-      "published_date": "2026-04-10T12:23:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unity Hub Berlin: Europe’s first support center for Ukrainians abroad launches in Berlin",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/unity-hub-berlin-u-berlini-zapuskayut-pershyj-u-yevropi-tsentr-pidtrymky-ukrayintsiv-za-kordonom/",
-      "published_date": "2026-04-10T11:59:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kremlin says Putin's envoy travelled to US to discuss matters other than Ukraine",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029617/",
-      "published_date": "2026-04-10T11:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Budanov: Ukraine moves closer to agreement with Putin",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111203-budanov-ukraine-moves-closer-to-agreement-with-putin.html",
-      "published_date": "2026-04-10T11:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "National Guardsmen were rehabilitated in the Carpathians: the \"Mountain Foothold\" program was launched in Bukovel",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/programa-tochka-opory-gory/",
-      "published_date": "2026-04-10T11:46:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Orest Mandzii appointed head of Ukraine's State Customs Service",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-economy/4111201-orest-mandzii-appointed-head-of-ukraines-state-customs-service.html",
-      "published_date": "2026-04-10T11:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The government appointed Orest Mandziy as the new head of the Customs Service",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/04/10/uryad-pryznachyv-oresta-mandziya-novym-golovoyu-mytnoyi-sluzhby/",
-      "published_date": "2026-04-10T11:22:45Z",
-      "category": "Local Events"
     },
     {
       "title": "Fire can be seen from 20 kilometers away: Pumping station on fire in Russia's Volgograd region after attack",
@@ -449,20 +477,6 @@
       "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029612/",
       "published_date": "2026-04-10T11:10:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Budanov on cooperation with Verkhovna Rada: Dialogue should be systematic",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4111144-budanov-on-cooperation-with-verkhovna-rada-dialogue-should-be-systematic-agreement-has-been-reached-with-mps-on-next-meeting.html",
-      "published_date": "2026-04-10T09:21:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Telegram messaging app almost fully blocked in Russia",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/04/10/8029586/",
-      "published_date": "2026-04-10T08:57:00Z",
-      "category": "Local Events"
     },
     {
       "title": "Lviv to host Defense Tech Valley 2026 on Sept 16-17",
@@ -484,13 +498,6 @@
       "url": "https://www.ukrinform.net/rubric-economy/4110862-ukraine-installs-nearly-500-mw-of-energy-storage-systems-ukrenergo.html",
       "published_date": "2026-04-10T00:40:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Occupying authorities carry out 57 arrests in Crimea since beginning of year – human rights activists",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4110654-occupying-authorities-carry-out-57-arrests-in-crimea-since-beginning-of-year-human-rights-activists.html",
-      "published_date": "2026-04-09T22:36:00Z",
-      "category": "Local Events"
     },
     {
       "title": "Hourly power outage schedules to be in effect in all regions on Friday",
@@ -630,13 +637,6 @@
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-polytics/4109853-russia-positions-itself-as-major-space-power-in-countries-across-asia-africa-and-latin-america-ccd.html",
       "published_date": "2026-04-07T22:32:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Additional heat and power capacity to be installed in Kyiv for critical infrastructure",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4110139-additional-heat-and-power-capacity-to-be-installed-in-kyiv-for-critical-infrastructure.html",
-      "published_date": "2026-04-07T17:28:00Z",
       "category": "Energy"
     },
     {
