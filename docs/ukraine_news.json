@@ -1,27 +1,356 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-05-08T23:49:51Z",
+  "last_updated": "2026-05-09T11:54:52Z",
   "stories": [
+    {
+      "title": "Mindich, Denmark, nationalisation – and US$7 billion: we unpack the main controversies surrounding Fire Point",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/articles/2026/05/09/8033959/",
+      "published_date": "2026-05-09T11:47:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia remains greatest security threat to Europe, says Bundeswehr general",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4121487-russia-remains-greatest-security-threat-to-europe-says-bundeswehr-general.html",
+      "published_date": "2026-05-09T11:37:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Accessibility continues to be implemented in Lviv: 30 lifts have been installed in residential buildings since the beginning of the year",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/u-lvovi-prodovzhuyut-vprovadzhuvaty-bezbar-yernist-u-zhytlovyh-budynkah-vstanovyly-30-pidjomnykiv-z-pochatku-roku/",
+      "published_date": "2026-05-09T11:32:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "While Russia held its 9 May parade, Warsaw activists placed crosses and photos of killed Ukrainian children outside Russian Embassy",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/05/09/while-russia-held-its-9-may-parade-warsaw-activists-placed-crosses-and-photos-of-killed-ukrainian-children-outside-russian-embassy/",
+      "published_date": "2026-05-09T11:24:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rescuers contain large forest fire in Chernihiv region",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121481-rescuers-contain-large-forest-fire-in-chernihiv-region.html",
+      "published_date": "2026-05-09T11:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "On Europe Day, Zelenskyi and Koshta discussed joint work for the European integration of Ukraine",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/u-den-yevropy-zelenskyj-i-koshta-obgovoryly-spilnu-robotu-zarady-yevropejskoyi-integratsiyi-ukrayiny/",
+      "published_date": "2026-05-09T11:08:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian Uragan MLRS can wipe out city block in 8.8 seconds. Ukraine just destroyed one of its loaders 40 km behind front",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/05/09/russian-uragan-mlrs-can-wipe-out-city-block-in-8-8-seconds-ukraine-just-destroyed-one-of-its-loaders-40-km-behind-front/",
+      "published_date": "2026-05-09T11:02:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "In Kramatorsk, the repair of a damaged three-story building was stopped - residents were left without housing and compensation, - investigation",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/u-kramatorsku-zupynyly-remont-poshkodzhenoyi-trypoverhivky-meshkantsi-zalyshylys-bez-zhytla-i-kompensatsij-rozsliduvannya/",
+      "published_date": "2026-05-09T10:59:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Drone strikes private household in Sumy community",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121474-drone-strikes-private-household-in-sumy-community.html",
+      "published_date": "2026-05-09T10:57:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s “Great Victory” cult wasn’t built in 1945 — it was constructed in 1965",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/05/09/russias-great-victory-cult-wasnt-built-in-1945-it-was-constructed-in-1965/",
+      "published_date": "2026-05-09T10:48:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"Kyiv Digital\" is conducting a survey on the emotional state of citizens: you can participate until May 19",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/u-kyyiv-tsyfrovyj-tryvaye-opytuvannya-pro-emotsijnyj-stan-mistyan-doluchytysya-mozhna-do-19-travnya/",
+      "published_date": "2026-05-09T10:45:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shortest military parade in modern Russian history held in Moscow",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4121461-shortest-military-parade-in-modern-russian-history-held-in-moscow.html",
+      "published_date": "2026-05-09T10:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian occupation troops fighting  in Ukraine are inspired by WWII “generation of victors,” says Putin at 9 May parade at Red Square",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/05/09/russian-occupation-troops-fighting-ukraine-are-inspired-by-wwii-generation-of-victors-says-putin-at-9-may-parade-at-red-square/",
+      "published_date": "2026-05-09T10:29:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Lithuania hands Russia note of protest over threats against diplomatic missions in Kyiv",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033953/",
+      "published_date": "2026-05-09T10:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Ministry of Justice said how many female prisoners joined the Armed Forces",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/u-min-yusti-rozpovily-skilky-uv-yaznenyh-zhinok-doluchylysya-do-zsu/",
+      "published_date": "2026-05-09T10:24:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's defense minister shows AI turret used in combat to intercept drones on battlefield",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121457-ukraines-defense-minister-shows-ai-turret-used-in-combat-to-intercept-drones-on-battlefield.html",
+      "published_date": "2026-05-09T10:08:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Kramatorsk district official injured in 5 May strike dies in hospital",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033951/",
+      "published_date": "2026-05-09T10:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Destroys enemy drones with the push of a button: more than 10 units use AI turrets to combat UAVs",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/znyshhuye-vorozhi-drony-odnym-natyskannyam-knopky-shi-tureli-dlya-borotby-z-bpla-vykorystovuyut-ponad-10-pidrozdiliv/",
+      "published_date": "2026-05-09T09:59:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Pentagon released the first part of documents about UFOs: Trump said that it was done on his instructions",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/pentagon-oprylyudnyv-pershu-chastynu-dokumentiv-pro-nlo-tramp-zayavyv-shho-tse-zrobyly-za-jogo-doruchennyam/",
+      "published_date": "2026-05-09T09:45:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "May 5 strike on Kramatorsk: Deputy head of district administration dies in hospital",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121451-may-5-strike-on-kramatorsk-deputy-head-of-district-administration-dies-in-hospital.html",
+      "published_date": "2026-05-09T09:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bathing and sunbathing: capybaras of KyivZoo have returned to their summer enclosure",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/kupannya-i-sonyachni-protsedury-kapibary-kyyivzoo-povernulys-do-svogo-litnogo-volyera/",
+      "published_date": "2026-05-09T09:29:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian drone attack in Zaporizhzhia region damages house, evacuation vehicle, injures two",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121434-russian-drone-attack-in-zaporizhzhia-region-damages-house-evacuation-vehicle-injures-two.html",
+      "published_date": "2026-05-09T09:23:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Victory Day parade in Moscow passes without attacks, lasting less than an hour",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033944/",
+      "published_date": "2026-05-09T09:16:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine and Turkey expand transport quotas and begin work on electronic permits",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/ukrayina-ta-turechchyna-zbilshuyut-kvoty-na-perevezennya-i-zapuskayut-robotu-nad-elektronnymy-dozvolamy/",
+      "published_date": "2026-05-09T09:00:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine-Russia talks at impasse, but US ready to mediate if opportunity arises – Rubio",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4121430-ukrainerussia-talks-at-impasse-but-us-ready-to-mediate-if-opportunity-arises-rubio.html",
+      "published_date": "2026-05-09T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian trench radar can detect FPV drones at distance of 8 km, says expert",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033941/",
+      "published_date": "2026-05-09T08:48:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Without military equipment and in a shortened format: how the \"Victory Day\" parade was held in Moscow",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/09/bez-vijskovoyi-tehniky-j-u-skorochenomu-formati-yak-u-moskvi-projshov-parad-do-dnya-peremogy/",
+      "published_date": "2026-05-09T08:47:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "SBU detains Russian agent in Odesa who plotted killing of senior Ukrainian Navy officer ahead of 'Victory Day'",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-crime/4121421-sbu-detains-russian-agent-in-odesa-who-plotted-killing-of-senior-ukrainian-navy-officer-ahead-of-victory-day.html",
+      "published_date": "2026-05-09T08:38:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian forces launch eight attacks on Donetsk region over past day, one wounded",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121418-russian-forces-launch-eight-attacks-on-donetsk-region-over-past-day-one-wounded.html",
+      "published_date": "2026-05-09T08:15:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Ukraine marks Europe Day as integral part of European family – Zelensky",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4121416-ukraine-marks-europe-day-as-integral-part-of-european-family-zelensky.html",
+      "published_date": "2026-05-09T07:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin at Victory Day parade: Russian soldiers are inspired by \"feats of Soviet victors\" – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033935/",
+      "published_date": "2026-05-09T07:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian shelling hits 20 settlements in Kherson region, three civilians injured",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121413-russian-shelling-hits-20-settlements-in-kherson-region-three-civilians-injured.html",
+      "published_date": "2026-05-09T07:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits civilian car in Zaporizhzhia region, leaving one dead, two injured",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121407-russian-drone-hits-civilian-car-in-zaporizhzhia-region-leaving-one-dead-two-injured.html",
+      "published_date": "2026-05-09T07:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Internet cut off in central Moscow as Victory Day parade begins",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033933/",
+      "published_date": "2026-05-09T07:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Overnight Russian attacks on Dnipropetrovsk region leave two dead, two injured",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121403-overnight-russian-attacks-on-dnipropetrovsk-region-leave-two-dead-two-injured.html",
+      "published_date": "2026-05-09T06:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone hits car in Zaporizhzhia Oblast: one killed, others injured",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033931/",
+      "published_date": "2026-05-09T06:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian drone hits agricultural enterprise in Chernihiv region, killing father and son",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121398-russian-drone-hits-agricultural-enterprise-in-chernihiv-region-killing-father-and-son.html",
+      "published_date": "2026-05-09T06:37:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's General Staff reports overnight fighting on front lines despite truce",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033929/",
+      "published_date": "2026-05-09T06:19:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "War update: 245 clashes on frontline over past day, heaviest fighting in Pokrovsk sector",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121393-war-update-245-clashes-on-frontline-over-past-day-heaviest-fighting-in-pokrovsk-sector.html",
+      "published_date": "2026-05-09T06:15:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian air defenses down 34 out of 43 drones launched by Russia overnight",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4121388-ukrainian-air-defenses-down-34-out-of-43-drones-launched-by-russia-overnight.html",
+      "published_date": "2026-05-09T05:56:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Father and son killed in Russian attack on Chernihiv Oblast",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033917/",
+      "published_date": "2026-05-09T05:51:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine celebrating Europe Day today",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4121383-ukraine-celebrating-europe-day-today.html",
+      "published_date": "2026-05-09T05:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Draft evasion scheme exposed in Ternopil region",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-crime/4121376-draft-evasion-scheme-exposed-in-ternopil-region.html",
+      "published_date": "2026-05-09T04:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says 3-day ceasefire between Russia and Ukraine agreed at his request",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4121375-trump-says-3day-ceasefire-between-russia-and-ukraine-agreed-at-his-request.html",
+      "published_date": "2026-05-09T04:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Minister of Culture of Ukraine, Dutch Royals discuss protecting Ukraine’s cultural heritage",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4121374-minister-of-culture-of-ukraine-dutch-royals-discuss-protecting-ukraines-cultural-heritage.html",
+      "published_date": "2026-05-09T03:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US-Iran talks could resume as early as next week – WSJ",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033911/",
+      "published_date": "2026-05-09T02:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians destroy farm in Chernihiv Oblast, killing one and injuring two – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033909/",
+      "published_date": "2026-05-09T00:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian special services draw 260 Ukrainian children into criminal activities – Lohachov",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4121042-russian-special-services-draw-260-ukrainian-children-into-criminal-activities-lohachov.html",
+      "published_date": "2026-05-09T00:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump believes Ukraine-Russia truce could last longer",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/09/8033908/",
+      "published_date": "2026-05-09T00:06:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Kharkiv restores 150 heavily damaged apartment buildings in 2025",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-vidbudova/4121063-kharkiv-restores-150-heavily-damaged-apartment-buildings-in-2025.html",
       "published_date": "2026-05-08T22:32:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Ahead of May 9, Russia dropping fake banknotes with propaganda QR codes over Ukrainian border regions",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4120961-ahead-of-may-9-russia-dropping-fake-banknotes-with-propaganda-qr-codes-over-ukrainian-border-regions.html",
-      "published_date": "2026-05-08T21:41:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russo-Ukrainian war, day 1535: Ukraine and Russia agree to 9-11 May ceasefire and 1,000-for-1,000 POW swap",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/09/russo-ukrainian-war-day-1535/",
-      "published_date": "2026-05-08T21:05:33Z",
-      "category": "Military"
     },
     {
       "title": "Ukraine restores 711 MW of generation in April repair campaign – Shmyhal",
@@ -31,11 +360,11 @@
       "category": "Energy"
     },
     {
-      "title": "War update: 200 clashes on front lines, Pokrovsk sector hottest",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121348-war-update-200-clashes-on-front-lines-pokrovsk-sector-hottest.html",
-      "published_date": "2026-05-08T20:31:00Z",
-      "category": "Military"
+      "title": "Kremlin responds to Zelenskyy’s decree allowing Victory Day parade in Moscow",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033901/",
+      "published_date": "2026-05-08T20:33:00Z",
+      "category": "Diplomacy"
     },
     {
       "title": "Zelensky signs decree excluding Red Square from Ukrainian strike plans during parade",
@@ -87,11 +416,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian-declared 'truce' not being felt, no change in combat dynamics – military spox",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121323-russiandeclared-truce-not-being-felt-no-change-in-combat-dynamics-military-spox.html",
-      "published_date": "2026-05-08T19:07:00Z",
-      "category": "Military"
+      "title": "Zelenskyy expects US to ensure Russia complies with truce and POW swap agreements",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033892/",
+      "published_date": "2026-05-08T18:56:00Z",
+      "category": "Diplomacy"
     },
     {
       "title": "Ukraine officially allowed Russia to hold a parade on May 9: Zelensky's decree",
@@ -108,52 +437,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russia’s T-72AM is a very old tank with a fresh coat of paint. Expect it to stay parked like other tanks.",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/08/t-72am/",
-      "published_date": "2026-05-08T18:46:57Z",
-      "category": "Military"
-    },
-    {
       "title": "Zelensky visits wounded soldiers at hospital in Dnipro",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-ato/4121321-zelensky-visits-wounded-soldiers-at-hospital-in-dnipro.html",
       "published_date": "2026-05-08T18:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine officially allows Russia to hold Victory Day parade in Moscow: Zelenskyy signs decree",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033890/",
-      "published_date": "2026-05-08T18:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky confirmed the regime of silence from May 9 to 11 and the exchange of prisoners of war in the format of 1,000 for 1,000",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/zelenskyj-pidtverdyv-rezhym-tyshi-z-9-po-11-travnya-ta-obmin-vijskovopolonenyh-u-formati-1000-na-1000/",
-      "published_date": "2026-05-08T18:37:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy announces 1,000-for-1,000 POW swap and confirms truce with Russia on 9-11 May",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033888/",
-      "published_date": "2026-05-08T18:31:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump announced a three-day truce between Ukraine and the Russian Federation and an exchange of prisoners",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/tramp-anonsuvav-trydenne-peremyr-ya-mizh-ukrayinoyu-ta-rf-i-obmin-polonenymy/",
-      "published_date": "2026-05-08T18:21:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kazakh, Uzbek presidents to attend military parade in Moscow – media",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4121315-kazakh-uzbek-presidents-to-attend-military-parade-in-moscow-media.html",
-      "published_date": "2026-05-08T18:21:00Z",
       "category": "Diplomacy"
     },
     {
@@ -164,118 +451,6 @@
       "category": "Energy"
     },
     {
-      "title": "Trump announces three-day truce agreed by Zelenskyy and Putin, says prisoner swap planned",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033886/",
-      "published_date": "2026-05-08T18:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At the weekend, Ukraine is expected to cool down: rains, thunderstorms in places, up to +18° during the day",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/na-vyhidnyh-v-ukrayini-ochikuyetsya-poholodannya-doshhi-mistsyamy-grozy-vden-do-18/",
-      "published_date": "2026-05-08T17:59:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "General Staff confirms strikes on Russian arsenal, two plants producing explosives and FAB bombs",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121309-general-staff-confirms-strikes-on-russian-arsenal-two-plants-producing-explosives-and-fab-bombs.html",
-      "published_date": "2026-05-08T17:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-judge Tandyr, who beat a serviceman to death, was informed of suspicion in the scheme with the apartments of the deceased",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/ekssuddi-tandyru-yakyj-na-smert-zbyv-vijskovosluzhbovtsya-povidomyly-pro-pidozru-v-shemi-z-kvartyramy-pomerlyh/",
-      "published_date": "2026-05-08T17:46:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kremlin says Putin ready for talks with EU but will not make first move",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033884/",
-      "published_date": "2026-05-08T17:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian drones attack Nikopol district in Dnipropetrovsk region, damage reported",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121308-russian-drones-attack-nikopol-district-in-dnipropetrovsk-region-damage-reported.html",
-      "published_date": "2026-05-08T17:38:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Infantryman who held position in Chasiv Yar for 346 days awarded Hero of Ukraine title – photos",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033881/",
-      "published_date": "2026-05-08T17:31:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The General Staff confirmed the damage to the arsenal of GRAU \"Kedrovka\" and two enterprises for the production of explosives and FABs in the Russian Federation",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/genshtab-pidtverdyv-povidomlennya-pro-urazhennya-arsenalu-grau-kedrovka-ta-dvoh-pidpryyemstv-z-vyrobnytstva-vybuhivky-i-fabiv-u-rf/",
-      "published_date": "2026-05-08T17:29:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Kyiv prepares massive defence spending increase in 2026 budget as EU funds drive weapons production and military pay",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/08/eu-loan-fuels-major-ukraine-defence-expansion/",
-      "published_date": "2026-05-08T17:22:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Oil refinery, depots, and more: General Staff reports strikes on key Russian targets",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121305-oil-refinery-depots-and-more-general-staff-reports-strikes-on-key-russian-targets.html",
-      "published_date": "2026-05-08T17:17:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian defence company Ratel shows combat use of ground robot with FPV drone launch platform – video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033873/",
-      "published_date": "2026-05-08T17:15:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The government will allocate 96 million hryvnias for the installation of anti-drone fortifications in Kherson and on evacuation routes",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/uryad-spryamuye-96-mln-gryven-na-oblashtuvannya-antydronovyh-ukriplen-u-hersoni-ta-na-evakuatsijnyh-marshrutah/",
-      "published_date": "2026-05-08T17:01:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine's General Staff confirms strikes on Russian Kedrovka arsenal and two military plants",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033877/",
-      "published_date": "2026-05-08T17:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian army intensifies operations across entire front – Syrskyi",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121294-russian-army-intensifies-operations-across-entire-front-syrskyi.html",
-      "published_date": "2026-05-08T16:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Prices of Russian loitering munitions revealed – photos",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033872/",
-      "published_date": "2026-05-08T16:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Slovak PM in Moscow calls himself EU's black sheep",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033876/",
-      "published_date": "2026-05-08T16:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "IAEA completes another mission to Ukraine's high-voltage substations",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-economy/4121277-iaea-completes-another-mission-to-ukraines-highvoltage-substations.html",
@@ -283,172 +458,11 @@
       "category": "Energy"
     },
     {
-      "title": "Lithuania lodges protest with Russia over threats against diplomatic missions in Kyiv",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4121273-lithuania-lodges-protest-with-russia-over-threats-against-diplomatic-missions-in-kyiv.html",
-      "published_date": "2026-05-08T16:19:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Fire in Chornobyl exclusion zone currently poses no radiation threat",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-emergencies/4121267-fire-in-chornobyl-exclusion-zone-currently-poses-no-radiation-threat.html",
       "published_date": "2026-05-08T15:59:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Russians have deployed over 100,000 troops on Pokrovsk front, Ukraine's commander-in-chief says",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033865/",
-      "published_date": "2026-05-08T15:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two drones crashed in Latvia. Ukraine offers to send experts to defend airspace from war spillover.",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/08/ukraine-considers-sending-experts-to-baltic-states-after-drone-airspace-incidents/",
-      "published_date": "2026-05-08T15:56:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Rubio says US ready to mediate Ukraine talks if circumstances change",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033857/",
-      "published_date": "2026-05-08T15:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "War update: 52 clashes since morning, Pokrovsk direction remains most active",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121263-war-update-52-clashes-since-morning-pokrovsk-direction-remains-most-active.html",
-      "published_date": "2026-05-08T15:39:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "EU countries request €43 billion reimbursement from European Commission for military aid to Ukraine",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033854/",
-      "published_date": "2026-05-08T15:17:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Latvia says two drones, not one, crashed into oil depot",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/08/8033853/",
-      "published_date": "2026-05-08T14:57:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelensky on ceasefire: “What tomorrow brings depends on what we hear today”",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121240-zelensky-on-ceasefire-what-tomorrow-brings-depends-on-what-we-hear-today.html",
-      "published_date": "2026-05-08T14:44:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Turkish MP says negotiation with Russia on freeing Crimean Tatar prisoners “not possible”",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4121230-turkish-mp-says-negotiation-with-russia-on-freeing-crimean-tatar-prisoners-not-possible.html",
-      "published_date": "2026-05-08T14:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky visits command post of 67th Brigade, meets troops and presents awards",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121212-zelensky-visits-command-post-of-67th-brigade-meets-troops-and-presents-awards.html",
-      "published_date": "2026-05-08T13:56:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Firefighters battling massive 500-hectare forest fire in Zhytomyr region",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-emergencies/4121186-firefighters-battling-massive-500hectare-forest-fire-in-zhytomyr-region.html",
-      "published_date": "2026-05-08T13:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Parliament of Moldova has supported a draft law that obliges MPs to speak Romanian",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/vykorystannya-rumunskoyi-movy/",
-      "published_date": "2026-05-08T11:07:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Lviv, a veteran who lost an arm, leg and sight opened an archery club",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/veteran-vidkryv-klub-strilby-z-luka/",
-      "published_date": "2026-05-08T10:44:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Firefighting efforts continue in Chornobyl Exclusion Zone, radiation levels normal across Ukraine – State Emergency Service",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-emergencies/4121073-firefighting-efforts-continue-in-chornobyl-exclusion-zone-radiation-levels-normal-across-ukraine-state-emergency-service.html",
-      "published_date": "2026-05-08T09:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Azov\" is returning home: fighters announced an air patrol of occupied Mariupol",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/08/azov-povertayetsya-dodomu/",
-      "published_date": "2026-05-08T09:11:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bulgaria approves new cabinet led by Rumen Radev — the ex-president who called Crimea Russian",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/08/bulgaria-approves-new-cabinet-led-by-rumen-radev-the-ex-president-who-called-crimea-russian/",
-      "published_date": "2026-05-08T09:05:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attacks in Kharkiv region over past day leave ten injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4121009-russian-attacks-in-kharkiv-region-over-past-day-leave-ten-injured.html",
-      "published_date": "2026-05-08T07:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Azerbaijanis collecting signatures in support of Crimean political prisoners",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4120765-azerbaijanis-collecting-signatures-in-support-of-crimean-political-prisoners.html",
-      "published_date": "2026-05-08T02:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In UK, radio system failure causes major disruptions to rail service",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-emergencies/4120757-in-uk-radio-system-failure-causes-major-disruptions-to-rail-service.html",
-      "published_date": "2026-05-08T01:32:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian forces drop aerial bombs on residential district of Kramatorsk, killing one person, injuring another",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4120923-russian-forces-drop-aerial-bombs-on-residential-district-of-kramatorsk-killing-one-person-injuring-another.html",
-      "published_date": "2026-05-07T19:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New industrial parks will be created in Odesa and Khmelnytskyi for the development of production and agro-processing",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/07/na-odeshhyni-ta-hmelnychchyni-stvoryat-novi-industrialni-parky-dlya-rozvytku-vyrobnytstva-ta-agropererobky/",
-      "published_date": "2026-05-07T19:31:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Large-scale forest fire breaks out in Kyiv region, firefighters manage to contain it",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-emergencies/4120922-largescale-forest-fire-breaks-out-in-kyiv-region-firefighters-manage-to-contain-it.html",
-      "published_date": "2026-05-07T19:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The fourth season of the \"Filling\" campaign ended in Lviv: blood donors received 2,500 tickets to theaters, museums and galleries",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/07/u-lvovi-zavershyvsya-chetvertyj-sezon-aktsiyi-napovnennya-donory-krovi-otrymaly-2500-kvytkiv-do-teatriv-muzeyiv-i-galerej/",
-      "published_date": "2026-05-07T19:13:13Z",
-      "category": "Local Events"
     },
     {
       "title": "Ukraine and Sweden are preparing to conclude contracts for the supply of Gripen aircraft",
@@ -626,13 +640,6 @@
       "category": "Energy"
     },
     {
-      "title": "IAEA discovers equipment malfunction at ZNPP following drone attack",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4119773-iaea-discovers-equipment-malfunction-at-znpp-following-drone-attack.html",
-      "published_date": "2026-05-05T07:50:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "Russia’s oil revenue nearly doubled in March. Its own bankers still expect a crash",
       "source": "Euromaidan Press",
       "url": "https://euromaidanpress.com/2026/05/04/russia-oil-revenue-march-2026-iran-war-bankers-warn-ruble-crash/",
@@ -651,13 +658,6 @@
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-society/4119070-censorship-in-russias-cultural-sphere-intensifies-media.html",
       "published_date": "2026-05-03T21:40:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Funding for Ukraine's USAI programme removed from US budget for 2027",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/02/8032777/",
-      "published_date": "2026-05-01T23:56:00Z",
       "category": "Economy"
     }
   ]
