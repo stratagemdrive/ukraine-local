@@ -1,18 +1,256 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-05-23T23:51:12Z",
+  "last_updated": "2026-05-24T12:03:46Z",
   "stories": [
     {
-      "title": "BREAKING: Russia reportedly struck Kyiv Oblast with Oreshnik intercontinental ballistic missile",
+      "title": "Zelensky speaks with Macron and Støre after massive Russian attack on Kyiv",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4126725-zelensky-speaks-with-macron-and-stre-after-massive-russian-attack-on-kyiv.html",
+      "published_date": "2026-05-24T11:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine strikes pumping station supplying fuel to Moscow Oblast",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036183/",
+      "published_date": "2026-05-24T11:27:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "SBU hits strategic fuel hub supplying Moscow region and major airports",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126719-sbu-hits-strategic-fuel-hub-supplying-moscow-region-and-major-airports.html",
+      "published_date": "2026-05-24T11:15:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Kyiv endures massive overnight aerial assault with widespread damage reported across 50 locations, at least 2 dead",
       "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/24/breaking-russia-reportedly-struck-kyiv-oblast-with-oreshnik-intercontinental-ballistic-missile/",
-      "published_date": "2026-05-23T22:38:06Z",
+      "url": "https://euromaidanpress.com/2026/05/24/kyiv-endures-massive-overnight-aerial-assault/",
+      "published_date": "2026-05-24T10:53:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Injury toll from massive attack on Kyiv climbs to 77, two people killed",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126718-injury-toll-from-massive-attack-on-kyiv-climbs-to-69-two-people-killed.html",
+      "published_date": "2026-05-24T10:52:00Z",
       "category": "Military"
+    },
+    {
+      "title": "Large-scale Russian strike on Kyiv damages cultural institutions, architectural landmarks – photos, video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036178/",
+      "published_date": "2026-05-24T10:47:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "EU to discuss stepping up pressure on Russia after Oreshnik attack on Kyiv region – Kallas",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4126712-eu-to-discuss-stepping-up-pressure-on-russia-after-oreshnik-attack-on-kyiv-region-kallas.html",
+      "published_date": "2026-05-24T10:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyy visits sites damaged in Russian attack on Kyiv – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036176/",
+      "published_date": "2026-05-24T10:26:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Ministry building damaged during massive attack on Kyiv",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126709-foreign-ministry-building-damaged-during-massive-attack-on-kyiv.html",
+      "published_date": "2026-05-24T10:08:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian strike damages Albanian ambassador's residence in Kyiv",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036174/",
+      "published_date": "2026-05-24T09:59:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russians strike Bohodukhiv in Kharkiv region, 12 injured",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126699-russians-strike-bohodukhiv-in-kharkiv-region-12-injured.html",
+      "published_date": "2026-05-24T09:50:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll from overnight Russian attack on Kyiv rises to two, 69 injured",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036161/",
+      "published_date": "2026-05-24T09:47:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s forces strike oil terminal, naval vessels in Russia’s Krasnodar Krai",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126694-ukraines-forces-strike-oil-terminal-naval-vessels-in-russias-krasnodar-krai.html",
+      "published_date": "2026-05-24T09:32:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Varta armoured vehicle saves soldiers after direct hit on battlefield – photo, video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036172/",
+      "published_date": "2026-05-24T09:16:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Over 80 people injured in Russia’s massive attack, with Kyiv as primary target – Zelensky",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126691-over-80-people-injured-in-russias-massive-attack-with-kyiv-as-primary-target-zelensky.html",
+      "published_date": "2026-05-24T09:15:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russians destroy National Chornobyl Museum in Kyiv, museums, churches, theatre and universities also damaged – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036168/",
+      "published_date": "2026-05-24T08:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Reports of possible “Oreshnik” missile strike in Bila Tserkva area",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126659-reports-of-possible-oreshnik-missile-strike-in-bila-tserkva-area.html",
+      "published_date": "2026-05-24T08:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian Foreign Ministry building damaged for first time since Second World War",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036170/",
+      "published_date": "2026-05-24T08:50:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Massive Russian attack: Air defenses down 55 missiles and 549 Russian drones",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126655-massive-attack-air-defenses-down-55-missiles-and-549-russian-drones.html",
+      "published_date": "2026-05-24T08:31:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy on Russian attack: Putin can't shout  \"hurrah\", so he hits homes with missiles – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036167/",
+      "published_date": "2026-05-24T08:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Enemy drone strikes in Chernihiv region injure six people over past 24 hours",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126666-enemy-drone-strikes-in-chernihiv-region-injure-six-people-over-past-24-hours.html",
+      "published_date": "2026-05-24T08:14:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian foreign minister urges allies to step up support for Ukraine after Russian attack",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036166/",
+      "published_date": "2026-05-24T08:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This year, about 1,000 housing vouchers for displaced people can be additionally financed",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/24/tsogorich-mozhut-dodatkovo-profinansuvaty-blyzko-1000-zhytlovyh-vaucheriv-dlya-pereselentsiv/",
+      "published_date": "2026-05-24T08:08:12Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ukrainian forces strike oil terminal in Russia's Krasnodar Krai – General Staff",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036164/",
+      "published_date": "2026-05-24T08:04:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll from massive attack on Kyiv rises to two, 56 injured",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126647-death-toll-from-massive-attack-on-kyiv-rises-to-two-56-injured.html",
+      "published_date": "2026-05-24T07:55:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Enemy attacks on 33 settlements in Sumy region kill one person and injure more than 20 over past 24 hours",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126643-enemy-attacks-on-33-settlements-in-sumy-region-kill-one-person-and-injure-more-than-20-over-past-24-hours.html",
+      "published_date": "2026-05-24T07:27:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "More than a thousand places for temporary residence of IDPs are provided in Volyn",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/24/na-volyni-peredbacheno-ponad-tysyachu-mists-dlya-tymchasovogo-prozhyvannya-vpo/",
+      "published_date": "2026-05-24T07:23:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy responds to Merz: Ukraine has been defending Europe fully, not with half measures and has to have right to vote in EU",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/05/24/zelenskyy-responds-to-merz-ukraine-has-been-defending-europe-fully-not-with-half-measures-and-has-to-have-right-to-vote-in-eu/",
+      "published_date": "2026-05-24T07:08:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian attacks in Donetsk region kill two people and wound six over past 24 hours",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126637-russian-attacks-in-donetsk-region-kill-two-people-and-wound-six-over-past-24-hours.html",
+      "published_date": "2026-05-24T06:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia attack Ukraine with 600 drones and 90 missiles, including Oreshnik",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/05/24/8036159/",
+      "published_date": "2026-05-24T06:54:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Death toll in Kyiv rises to two after massive attack",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4126630-death-toll-in-kyiv-rises-to-two-after-massive-attack.html",
+      "published_date": "2026-05-24T06:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky: From September 1, all schoolchildren must be provided with free hot meals",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4126542-zelensky-from-september-1-all-schoolchildren-must-be-provided-with-free-hot-meals.html",
+      "published_date": "2026-05-24T00:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine imposes sanctions on Russians involved in missile strike on Okhmatdyt",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4126535-ukraine-imposes-sanctions-on-russians-involved-in-missile-strike-on-okhmatdyt.html",
+      "published_date": "2026-05-23T23:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Usyk knocks out Verhoeven in hard-fought bout to retain championship title",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/05/24/usyk-u-vazhkomu-boyu-nokautuvav-verhovena-ta-zahystyv-chempionskyj-tytul/",
+      "published_date": "2026-05-23T23:25:14Z",
+      "category": "Economy"
     },
     {
       "title": "NATO–Ukraine JATEC to hold training on countering Russian PsyOps",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-polytics/4126449-natoukraine-jatec-to-hold-training-on-countering-russian-psyops.html",
+      "published_date": "2026-05-23T22:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NATO – Ukraine JATEC to hold training on countering Russian PsyOps",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4126449-natoukraine-jatec-to-hold-training-on-countering-russian-psyops.html",
       "published_date": "2026-05-23T22:37:00Z",
       "category": "Diplomacy"
     },
@@ -24,48 +262,6 @@
       "category": "Energy"
     },
     {
-      "title": "Russo-Ukrainian war, day 1550: Russian FPV drones hit funeral procession and pensioners in Ukraine",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/23/russo-ukrainian-war-day-1550-russian-fpv-drones-hit-funeral-procession-and-pensioners-in-ukraine/",
-      "published_date": "2026-05-23T20:56:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia is now losing 95% of its Shaheds to Ukrainian interception. Moscow’s response will be jet-powered variants and border-area targeting",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/23/russia-is-now-losing-95-of-its-shaheds-to-ukrainian-interception-moscows-response-will-be-jet-powered-variants-and-border-area-targeting/",
-      "published_date": "2026-05-23T20:49:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine warns of possible third “Oreshnik” strike with Kyiv among likely targets — and US Embassy issues security alert",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/23/ukraine-warns-of-possible-third-oreshnik-strike-with-kyiv-among-likely-targets-and-us-embassy-issues-security-alert/",
-      "published_date": "2026-05-23T20:33:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine strikes Russia’s Sheskharis terminal with 75 million tons of annual oil throughput and 2.5 million cubic meters of tank capacity",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/23/ukraine-strikes-russias-sheskharis-terminal-with-75-million-tons-of-annual-oil-throughput-and-2-5-million-cubic-meters-of-tank-capacity/",
-      "published_date": "2026-05-23T20:21:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian FPV strike on funeral procession in Sumy: one killed, 14 injured",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036123/",
-      "published_date": "2026-05-23T18:51:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russians attacking Kyiv, air defence activated",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036121/",
-      "published_date": "2026-05-23T18:20:00Z",
-      "category": "Military"
-    },
-    {
       "title": "US Embassy warns of possible large-scale Russian air attack on Ukraine",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/05/23/posolstvo-ssha-poperedzhaye-pro-mozhlyvu-masshtabnu-povitryanu-ataku-rf/",
@@ -73,25 +269,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian showed his military ID in mud and declared him dead. He survived and went back for gun",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/23/russian-showed-his-military-id-in-mud-and-declared-him-dead-he-survived-and-went-back-for-gun/",
-      "published_date": "2026-05-23T17:20:05Z",
-      "category": "Military"
-    },
-    {
       "title": "Usyk - Verhoeven: where and when to watch the fight for the WBC championship title",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/05/23/usyk-verhoven-de-ta-koly-dyvytysya-bij-za-chempionskyj-tytul-wbc/",
       "published_date": "2026-05-23T17:17:19Z",
       "category": "Local Events"
-    },
-    {
-      "title": "US Embassy warns of possible large-scale Russian strike on Ukraine within 24 hours",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036112/",
-      "published_date": "2026-05-23T17:04:00Z",
-      "category": "Military"
     },
     {
       "title": "Russian attacks injure two in Nikopol district, one in serious condition",
@@ -108,25 +290,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Zelenskyy: Russians likely preparing Oreshnik missile strike, particularly on Kyiv",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036107/",
-      "published_date": "2026-05-23T15:50:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Seven civilians injured in Russian attacks on Kherson Oblast in single day",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036104/",
       "published_date": "2026-05-23T15:19:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Woman killed and four people injured in Russian attacks on Kharkiv Oblast – photo",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036098/",
-      "published_date": "2026-05-23T14:44:00Z",
-      "category": "Military"
     },
     {
       "title": "Russia conducts over 24 hours of strikes on Ukrainian oil and gas facilities in Kharkiv and Poltava oblasts",
@@ -171,32 +339,11 @@
       "category": "Local Events"
     },
     {
-      "title": "AFU General Staff confirms strikes on Sheskharis terminal, oil depot, Russian shadow fleet tanker",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4126557-afu-general-staff-confirms-strikes-on-sheskharis-terminal-oil-depot-russian-shadow-fleet-tanker.html",
-      "published_date": "2026-05-23T12:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian forces strike Russian frigate Admiral Essen in Novorossiysk once again – photo, video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036087/",
-      "published_date": "2026-05-23T12:58:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Kyiv and Kyiv Oblast are being prepared for all-round defence",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036079/",
       "published_date": "2026-05-23T12:56:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Russian drone attacks police car in Novhorod-Siverskyi, three officers injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4126553-russian-drone-attacks-police-car-in-novhorodsiverskyi-three-officers-injured.html",
-      "published_date": "2026-05-23T12:40:00Z",
-      "category": "Military"
     },
     {
       "title": "Ukraine signs agreement on introducing the TRACECA single transit permit",
@@ -206,32 +353,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "In Prague, Kharkiv Mayor highlights vital Czech assistance to war-torn city",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126552-in-prague-kharkiv-mayor-highlights-vital-czech-assistance-to-wartorn-city.html",
-      "published_date": "2026-05-23T12:20:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian General Staff reports strikes on Russian oil terminal, oil depot and tanker",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036082/",
-      "published_date": "2026-05-23T12:07:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Russia tightens screws on regime critics",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036083/",
       "published_date": "2026-05-23T12:00:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian Defense Forces strike enemy convoy and field depots in Luhansk region",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4126534-ukrainian-defense-forces-strike-enemy-convoy-and-field-depots-in-luhansk-region.html",
-      "published_date": "2026-05-23T11:59:00Z",
-      "category": "Military"
     },
     {
       "title": "Hungary on Russian energy dependence: Budapest will do what is best for Hungarians",
@@ -241,32 +367,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Body of woman killed in nighttime Russian drone strike found in Kherson",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4126531-body-of-woman-killed-in-nighttime-russian-drone-strike-found-in-kherson.html",
-      "published_date": "2026-05-23T11:42:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Vehicle strike on funeral procession in Sumy: one victim dies in hospital",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4126529-vehicle-strike-on-funeral-procession-in-sumy-one-victim-dies-in-hospital.html",
-      "published_date": "2026-05-23T11:26:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Zelenskyy imposes sanctions on Russian commanders responsible for missile strikes on Ukraine",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036076/",
       "published_date": "2026-05-23T11:13:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Russian operators deliberately wound pensioners aged 83, 80, and 69, who can’t escape their FPVs in Kherson Oblast",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/23/russian-operators-deliberately-wound-pensioners-aged-83-80-and-69-who-cant-escape-their-fpvs-in-kherson-oblast/",
-      "published_date": "2026-05-23T11:11:29Z",
-      "category": "Military"
     },
     {
       "title": "Ukrposhta has successfully completed a three-year program of large-scale automation of logistics",
@@ -353,13 +458,6 @@
       "category": "Local Events"
     },
     {
-      "title": "Four nights in custody: will Zelenskyy's team change after Yermak's arrest?",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036069/",
-      "published_date": "2026-05-23T07:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Acute petrol shortage in Russian-occupied Sevastopol, queues are forming at filling stations",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036056/",
@@ -374,74 +472,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Ukraine unlocks another source of funding within PURL – FM Sybiha",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126430-ukraine-unlocks-another-source-of-funding-within-purl-fm-sybiha.html",
-      "published_date": "2026-05-23T05:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Thirteen civilians injured in Sumy region due to Russian attacks over past day",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-ato/4126424-thirteen-civilians-injured-in-sumy-region-due-to-russian-attacks-over-past-day.html",
       "published_date": "2026-05-23T05:36:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Ukraine’s Migration Service sees trend of Ukrainians returning from abroad",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4126414-ukraines-migration-service-sees-trend-of-ukrainians-returning-from-abroad.html",
-      "published_date": "2026-05-23T04:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine, Albania to jointly host ministerial meeting of Southeast European countries",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126412-ukraine-albania-to-jointly-host-ministerial-meeting-of-southeast-european-countries.html",
-      "published_date": "2026-05-23T04:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Melnyk responds to Nebenzya’s invitation to visit Russia at UN Security Council",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126411-melnyk-responds-to-nebenzyas-invitation-to-visit-russia-at-un-security-council.html",
-      "published_date": "2026-05-23T03:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "U.S. again calls for “immediate and comprehensive ceasefire” in Russia’s war",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126410-us-again-calls-for-immediate-and-comprehensive-ceasefire-in-russias-war.html",
-      "published_date": "2026-05-23T03:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US senators from both parties urge Pentagon to speed up aid to Ukraine",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036040/",
-      "published_date": "2026-05-23T03:18:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US at UN again calls for \"immediate and comprehensive ceasefire\" in Russia's war against Ukraine",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/05/23/8036038/",
-      "published_date": "2026-05-23T02:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Sybiha announced Tsikhanouskaya visit to Ukraine",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126361-fm-sybiha-announced-tykhanovska-visit-to-ukraine.html",
-      "published_date": "2026-05-23T01:28:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sikorski says Putin may reconsider war calculations as Western aid to Ukraine grows",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4126163-sikorski-says-putin-may-reconsider-war-calculations-as-western-aid-to-ukraine-grows.html",
-      "published_date": "2026-05-22T23:25:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "Mykolaiv receives 76 generators from German partners",
@@ -463,13 +498,6 @@
       "url": "https://euromaidanpress.com/2026/05/22/russias-1392-vessel-shadow-fleet-is-now-hybrid-warfare-tool-it-will-continue-as-long-as-its-export-capacity-remains-unharmed/",
       "published_date": "2026-05-22T18:43:27Z",
       "category": "Economy"
-    },
-    {
-      "title": "Ukraine saved 16% of funds for the purchase of 155-mm shells through a tender",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/22/zakupivlya-155-mm-snaryadiv/",
-      "published_date": "2026-05-22T18:31:22Z",
-      "category": "Local Events"
     },
     {
       "title": "Solar stations for elevators are being launched in Poltava Oblast and Kirovohrad Oblast",
@@ -605,20 +633,6 @@
       "category": "Energy"
     },
     {
-      "title": "In the Tuzliv estuaries national park, a mass death of jellyfish was discovered after an oil spill",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/20/masovu-zagybel-meduz/",
-      "published_date": "2026-05-20T11:11:45Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Why energy-efficient rebuilding can save families and communities money over time",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/05/20/why-energy-efficient-rebuilding-can-save-families-and-communities-money-over-time/",
-      "published_date": "2026-05-20T10:57:17Z",
-      "category": "Energy"
-    },
-    {
       "title": "Ukrainian PM Svyrydenko unveils Ukraine's new 15-year economic strategy",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/05/20/8035555/",
@@ -686,13 +700,6 @@
       "source": "Euromaidan Press",
       "url": "https://euromaidanpress.com/2026/05/18/russia-financial-war-crimes-lex-collective-icc/",
       "published_date": "2026-05-18T09:25:39Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Restoration of Borodyanka: the first post-deoccupation bank branch with increased accessibility was opened in the city",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/05/17/viddilennya-banku-iz-pidvyshhenoyu-dostupnistyu/",
-      "published_date": "2026-05-17T13:32:52Z",
       "category": "Economy"
     }
   ]
