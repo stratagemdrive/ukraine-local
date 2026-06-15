@@ -1,7 +1,329 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-06-15T00:05:26Z",
+  "last_updated": "2026-06-15T16:22:25Z",
   "stories": [
+    {
+      "title": "Ukraine is increasing the number of demining specialists: international partners are expanding their support",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/v-ukrayini-zbilshuyut-kilkist-fahivtsiv-iz-rozminuvannya-mizhnarodni-partnery-rozshyryuyut-pidtrymku/",
+      "published_date": "2026-06-15T16:00:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Britain detains shadow fleet tanker for first time; Kyiv expects stronger pressure on Russia’s oil revenues",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4134059-britain-detains-shadow-fleet-tanker-for-first-time-kyiv-expects-stronger-pressure-on-russias-oil-revenues.html",
+      "published_date": "2026-06-15T15:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UNESCO condemned the Russian attack on the Kyiv-Pechersk Lavra",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/yunesko-zasudyla-udar-rosiyan-po-kyyevo-pecherskij-lavri/",
+      "published_date": "2026-06-15T15:48:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poland explains why it did not transfer MiG fighter jets to Ukraine",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4134056-poland-explains-why-it-did-not-transfer-mig-fighter-jets-to-ukraine.html",
+      "published_date": "2026-06-15T15:31:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The slogan \"Glory to Ukraine! Glory to the heroes!\" will appear on the 100 hryvnia banknotes.",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/na-banknotah-nominalom-100-gryven-z-yavytsya-gaslo-slava-ukrayini-geroyam-slava/",
+      "published_date": "2026-06-15T15:30:07Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ukraine can potentially force Putin to end war - Belgian expert",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4134082-ukraine-can-potentially-force-putin-to-end-war-belgian-expert.html",
+      "published_date": "2026-06-15T15:21:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russians reduce long-closed Kyiv post office to rubble",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039441/",
+      "published_date": "2026-06-15T15:17:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Commander of 19th Army Corps: Russia does not control any part of Kostiantynivka, there's only around 123 Russian troops in the city",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039437/",
+      "published_date": "2026-06-15T15:14:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian-made Shark reconnaissance drone now compatible with Starlink",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039443/",
+      "published_date": "2026-06-15T15:13:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky awards state scholarships to 90 outstanding figures in science, culture, and arts",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4134053-zelensky-awards-state-scholarships-to-90-outstanding-figures-in-science-culture-and-arts.html",
+      "published_date": "2026-06-15T14:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU countries approved the opening of the first negotiating cluster for Ukraine and Moldova",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/krayiny-yes-shvalyly-vidkryttya-pershogo-peregovornogo-klastera-dlya-ukrayiny-ta-moldovy/",
+      "published_date": "2026-06-15T14:55:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Macron wants Washington to tell Ukraine “we are with you” as the G7 summit in Évian",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/macron-wants-washington-to-tell-ukraine-we-are-with-you-as-the-g7-summit-in-evian/",
+      "published_date": "2026-06-15T14:54:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil tankers start leaving Strait of Hormuz, Trump says",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039430/",
+      "published_date": "2026-06-15T14:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In Ukraine, contracts with clear terms of service were introduced: what will change from June 15",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/v-ukrayini-zaprovadyly-kontrakty-z-chitkymy-terminamy-sluzhby-shho-zminytsya-z-15-chervnya/",
+      "published_date": "2026-06-15T14:44:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In the Russian Federation, a Tu-22M3 plane crashed during a training flight near Irkutsk",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/v-rf-poblyzu-irkutska-pid-chas-navchalnogo-polotu-rozbyvsya-litak-tu-22m3/",
+      "published_date": "2026-06-15T14:33:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MFA of Ukraine says request to recall Ambassador to Cyprus submitted before his announced resignation",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4134047-mfa-of-ukraine-says-request-to-recall-ambassador-to-cyprus-submitted-before-his-announced-resignation.html",
+      "published_date": "2026-06-15T14:27:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kallas calls the Lavra attack a war crime and announces new EU sanctions",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/kallas-calls-the-lavra-attack-a-war-crime-and-announces-new-eu-sanctions/",
+      "published_date": "2026-06-15T14:26:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Police seize warhead of Russian drone near roadway in Kyiv – photo, video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039429/",
+      "published_date": "2026-06-15T14:25:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hit Kyiv’s 1,000-year-old monastery, then launched disinformation campaign with five different scenarios. Ukraine has seen this playbook in Mariupol",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/russia-hit-kyivs-1000-year-old-monastery-then-launched-disinformation-campaign-with-five-different-scenarios-ukraine-has-seen-this-playbook-in-mariupol/",
+      "published_date": "2026-06-15T14:17:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Night attack on Kyiv: the hospital told about the condition of the wounded",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/nichna-ataka-na-kyyiv-u-likarni-rozpovily-pro-stan-poranenyh/",
+      "published_date": "2026-06-15T13:59:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "Geran-2 drone found and secured near roadway in Kyiv’s Shevchenkivskyi district",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4134035-geran2-drone-found-and-secured-near-roadway-in-kyivs-shevchenkivskyi-district.html",
+      "published_date": "2026-06-15T13:59:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian Defence Industry unveils UAV-290 jet-powered strike drone with 100 kg payload capacity",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039423/",
+      "published_date": "2026-06-15T13:51:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "In response to the shelling, the EU introduced new sanctions against Russia: who was on the list",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/u-vidpovid-na-obstrily-yes-zaprovadyv-novi-sanktsiyi-proty-rosiyi-hto-potrapyv-do-spysku/",
+      "published_date": "2026-06-15T13:43:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EU Council extends sanctions over illegal annexation of Crimea for another year",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4134031-eu-council-extends-sanctions-over-illegal-annexation-of-crimea-for-another-year.html",
+      "published_date": "2026-06-15T13:36:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tu-22M3 bomber crashes in Russia – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039420/",
+      "published_date": "2026-06-15T13:33:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine hits two northeastern bridges to occupied Crimea overnight again to cut a main supply road",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/ukrainian-drones-hit-two-northeastern-bridges-to-occupied-crimea-overnight-again-to-cut-a-main-supply-road/",
+      "published_date": "2026-06-15T13:27:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The SBU detained an FSB agent who placed \"video traps\" to correct massive Russian attacks on the capital",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/sbu-zatrymala-agentku-fsb-yaka-rozmistyla-videopastky-shhob-koryguvaty-masovani-ataky-rf-po-stolytsi/",
+      "published_date": "2026-06-15T13:18:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia has damaged or destroyed nearly 2,000 Ukrainian cultural heritage sites since 2022 — prosecutor general calls Lavra strike deliberate erasure",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/russia-has-damaged-or-destroyed-nearly-2000-ukrainian-cultural-heritage-sites-since-2022-prosecutor-general-calls-lavra-strike-deliberate-erasure/",
+      "published_date": "2026-06-15T13:16:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Damaged cultural landmarks, market and school: everything known about aftermath of Russia's attack on Kyiv – photos, video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039412/",
+      "published_date": "2026-06-15T13:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Engineering munitions killed 1,099 Russian invaders in May, military reports",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4134015-engineering-munitions-killed-1099-russian-invaders-in-may-military-reports.html",
+      "published_date": "2026-06-15T12:59:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The American defense company has started production of 65 MSFV armored vehicles for Ukraine",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/06/15/amerykanska-oboronna-kompaniya-rozpochala-vyrobnytstvo-65-bronemashyn-msfv-dlya-ukrayiny/",
+      "published_date": "2026-06-15T12:55:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian Defence Industry showcases Ukrainian-made Peklo drone missiles in Paris – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039406/",
+      "published_date": "2026-06-15T12:46:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Netherlands transfers sixth mine countermeasures vessel to Ukraine—named Henichesk after ship sunk in 2022",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/netherlands-transfers-fifth-mine-countermeasures-vessel-to-ukraine-named-henichesk-after-ship-sunk-in-2022/",
+      "published_date": "2026-06-15T12:40:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "EU approves parallel mini-package of anti-Russian sanctions",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039404/",
+      "published_date": "2026-06-15T12:35:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Massive attack on Ukraine: firefighters battling blazes at four sites in Kyiv and Kharkiv",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4134013-massive-attack-on-ukraine-firefighters-battling-blazes-at-four-sites-in-kyiv-and-kharkiv.html",
+      "published_date": "2026-06-15T12:35:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelenskyy says he proposed meeting with Putin at G7 summit",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039401/",
+      "published_date": "2026-06-15T12:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine's Ukrspecsystems unveils new interceptor drone in Paris showcase – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039403/",
+      "published_date": "2026-06-15T12:27:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine joins EU Cybersecurity Reserve",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039396/",
+      "published_date": "2026-06-15T12:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France compares Lavra strike to bombing Notre-Dame, calls for tougher sanctions",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/06/15/frances-president-macron-compares-lavra-strike-to-bombing-notre-dame-calls-for-tougher-sanctions/",
+      "published_date": "2026-06-15T11:28:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attack on Kyiv Pechersk Lavra demonstrates Russia's unwillingness to negotiate, EU says",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039382/",
+      "published_date": "2026-06-15T11:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lavrov says French, German and UK ambassadors brought \"nothing new\" to Russian Foreign Ministry meeting",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039378/",
+      "published_date": "2026-06-15T10:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky: Two drones deliberately target part of Kyiv where Lavra and Mystetskyi Arsenal located",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4133971-zelensky-two-drones-deliberately-target-part-of-kyiv-where-lavra-and-mystetskyi-arsenal-located.html",
+      "published_date": "2026-06-15T10:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moscow awaits Trump's envoys and wants to hear how they plan to implement Ukraine agreements",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039372/",
+      "published_date": "2026-06-15T10:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Occupiers resume traffic through Dzhankoi Checkpoint using pontoons",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4133960-occupiers-resume-traffic-through-dzhankoi-checkpoint-using-pontoons.html",
+      "published_date": "2026-06-15T10:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia again decides not to hold its \"main naval parade\"",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/15/8039371/",
+      "published_date": "2026-06-15T10:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Building of High Anti-Corruption Court damaged in Kyiv due to Russian attack",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4133870-building-of-high-anticorruption-court-damaged-in-kyiv-due-to-russian-attack.html",
+      "published_date": "2026-06-15T07:27:00Z",
+      "category": "Local Events"
+    },
     {
       "title": "Ex-local official in Sumy region sentenced to 15 years for high treason",
       "source": "Ukrinform",
@@ -10,46 +332,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Frontline update: 118 combat clashes, Ukrainian forces neutralize 55 occupiers on Pokrovsk axis",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133782-frontline-update-118-combat-clashes-ukrainian-forces-neutralize-55-occupiers-on-pokrovsk-axis.html",
-      "published_date": "2026-06-14T20:56:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine unveils results of its largest-ever state cultural program, backed by a €82M budget and attracting over 2,600 submissions",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/06/14/tysyachovesna-ponad-2600-zayavok-serial-pro-kyyivsku-rus-i-stavka-na-dytyachu-animatsiyu/",
-      "published_date": "2026-06-14T20:43:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fire at Kharkiv museum contained, six people injured in Russian attack",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133781-fire-at-kharkiv-museum-contained-six-people-injured-in-russian-attack.html",
-      "published_date": "2026-06-14T20:27:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Ammunition for Ukraine: Polish company says it has fulfilled UAH 23B contract",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-ato/4133777-ammunition-for-ukraine-polish-company-says-it-has-fulfilled-uah-23b-contract.html",
       "published_date": "2026-06-14T19:52:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "New conditions of service, payments and deferrals: the Ministry of Defense answered the most common questions about the transformation of the Defense Forces",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/06/14/novi-umovy-sluzhby-vyplat-ta-vidstrochok-u-minoborony-vidpovily-na-najposhyrenishi-zapytannya-pro-transformatsiyu-syl-oborony/",
-      "published_date": "2026-06-14T19:45:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "Two birthday calls: Zelenskyy thanked Trump for “every step from Javelins to Patriots.” Putin told Trump to make Zelenskyy come to Moscow",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/06/14/two-birthday-calls-zelenskyy-thanked-trump-for-every-step-from-javelins-to-patriots-putin-told-trump-to-make-zelenskyy-come-to-moscow/",
-      "published_date": "2026-06-14T19:43:40Z",
-      "category": "Diplomacy"
     },
     {
       "title": "In Kyiv, the notification system is being modernized: more than 400 new elements are already working in test mode in the territory of the Left Bank districts",
@@ -87,20 +374,6 @@
       "category": "Local Events"
     },
     {
-      "title": "Death toll from Russia's June 2 strike on Dnipro rises to 17",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133768-death-toll-from-russias-june-2-strike-on-dnipro-rises-to-17.html",
-      "published_date": "2026-06-14T18:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia revived “previously unrecoverable” engines to restore 5,100 Cold War tanks",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/06/14/russia-revived-previously-unrecoverable-engines-to-restore-5100-cold-war-tanks/",
-      "published_date": "2026-06-14T18:34:35Z",
-      "category": "Military"
-    },
-    {
       "title": "In Ivano-Frankivsk, a mass race was held on the City Lake: the event was an opportunity to actively spend time with the whole family",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/06/14/v-ivano-frankivsku-provely-masovyj-zabig-na-miskomu-ozeri-zahid-stav-nagodoyu-aktyvno-provesty-chas-usiyeyu-rodynoyu/",
@@ -113,27 +386,6 @@
       "url": "https://www.ukrinform.net/rubric-ato/4133767-explosions-reported-in-occupied-crimea-traffic-on-kerch-bridge-halted-social-media.html",
       "published_date": "2026-06-14T18:23:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Russians attack Kharkiv: baby and four others injured, museum damaged – photos",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039269/",
-      "published_date": "2026-06-14T18:08:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyi: It is important that American society fully supports Ukraine's desire for peace",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/06/14/zelenskyj-vazhlyvo-shho-amerykanske-suspilstvo-povnistyu-pidtrymuye-ukrayinske-pragnennya-do-myru/",
-      "published_date": "2026-06-14T17:59:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky comments on UK detention of tanker from Russia’s shadow fleet",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4133763-zelensky-comments-on-uk-detention-of-tanker-from-russias-shadow-fleet.html",
-      "published_date": "2026-06-14T17:59:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "In Armenia, the final results of the parliamentary elections were announced: the party of Prime Minister Pashinyan won",
@@ -150,186 +402,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Art museum in Kharkiv catches fire after shelling; infant injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133761-art-museum-in-kharkiv-catches-fire-after-shelling-infant-injured.html",
-      "published_date": "2026-06-14T17:41:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Putin announced a \"friendly\" conversation with Trump: they agreed on the visit of Witkoff and Kushner to Moscow",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/06/14/u-putina-zayavyly-pro-druzhnyu-rozmovu-z-trampom-domovylysya-pro-vizyt-vitkoffa-ta-kushnera-do-moskvy/",
-      "published_date": "2026-06-14T17:24:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy plans to discuss \"some ideas that are not public yet\" with Ukraine's partners",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039270/",
-      "published_date": "2026-06-14T17:16:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian forces shell Dnipropetrovsk region over 30 times in a day; one killed, three wounded",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133757-russian-forces-shell-dnipropetrovsk-region-over-30-times-in-a-day-one-killed-three-wounded.html",
-      "published_date": "2026-06-14T17:09:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy reveals what Trump said about Crimea in latest phone call: strong leadership would have prevented the war",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039268/",
-      "published_date": "2026-06-14T16:48:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "One killed and teenager injured due to Russian strike near bus stop in Zaporizhzhia Oblast",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039267/",
-      "published_date": "2026-06-14T16:32:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky agrees with Trump to discuss peace initiatives at G7 summit",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4133754-zelensky-agrees-with-trump-to-discuss-peace-initiatives-at-g7-summit.html",
-      "published_date": "2026-06-14T16:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump speaks with Putin as well as Zelenskyy, Kremlin claims Trump offered to influence Kyiv",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039265/",
-      "published_date": "2026-06-14T16:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian drone strike hits bus stop in Zaporizhzhia region; one killed, minor injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133746-russian-drone-strike-hits-bus-stop-in-zaporizhzhia-region-one-killed-minor-injured.html",
-      "published_date": "2026-06-14T15:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyy wishes Trump success in ending war in Ukraine, says meeting will follow",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039264/",
-      "published_date": "2026-06-14T15:41:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian drone strikes hit two Kharkiv districts; no casualties reported yet",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133742-russian-drone-strikes-hit-two-kharkiv-districts-no-casualties-reported-yet.html",
-      "published_date": "2026-06-14T15:41:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia has drained 72% of its Cold War tank reserve. Only 851 are left to restore.",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/06/14/russia-has-drained-72-of-its-cold-war-tank-reserve-only-851-are-left-to-restore/",
-      "published_date": "2026-06-14T15:29:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky and Trump spoke by phone",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4133739-zelensky-and-trump-spoke-by-phone.html",
-      "published_date": "2026-06-14T15:19:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy holds phone call with Trump",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039262/",
-      "published_date": "2026-06-14T15:06:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CNN: Russia struggles with military recruitment, rates down 20%",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039261/",
-      "published_date": "2026-06-14T14:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Enemy FPV drones attack residential buildings in Kushuhum",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133726-enemy-fpv-drones-attack-residential-buildings-in-kushuhum.html",
-      "published_date": "2026-06-14T14:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"Fuel oil rain\" reported in Russia following drone strike on oil depot",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039257/",
-      "published_date": "2026-06-14T14:10:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian military attacks Bilenke in Zaporizhzhia region; casualties reported",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133722-russian-military-attacks-bilenke-in-zaporizhzhia-region-casualties-reported.html",
-      "published_date": "2026-06-14T13:58:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "One killed and four injured in Russian drone strike on car in Zaporizhzhia Oblast – photo",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039252/",
-      "published_date": "2026-06-14T13:34:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia faces growing difficulty recruiting new soldiers for war against Ukraine - CNN",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4133716-russia-faces-growing-difficulty-recruiting-new-soldiers-for-war-against-ukraine-cnn.html",
-      "published_date": "2026-06-14T13:31:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russians attack railway station in Kharkiv Oblast, injuries and damage reported",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039249/",
-      "published_date": "2026-06-14T13:19:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia may soon have more tanks than pre-war. It just can’t use them.",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/06/14/t-72a-engines/",
-      "published_date": "2026-06-14T13:09:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian rower Liudmyla Luzan claims her fourth gold at Euro 2026 canoe sprint championships",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039241/",
-      "published_date": "2026-06-14T12:40:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Ukraine’s special forces sabotaged an oil pumping station in Russia with help from a local partisan group, SOF reports",
       "source": "Euromaidan Press",
       "url": "https://euromaidanpress.com/2026/06/14/ukraines-special-forces-sabotaged-an-oil-pumping-station-in-russia-with-help-from-a-local-partisan-group-sof-reports/",
       "published_date": "2026-06-14T12:29:43Z",
       "category": "Energy"
-    },
-    {
-      "title": "Zelensky thanked Britain for the first detention of a tanker of the Russian \"shadow fleet\"",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/06/14/zatrymannya-tankera-rosijskogo/",
-      "published_date": "2026-06-14T12:20:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Starmer posts video showing UK operation against Russian shadow fleet vessel – video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039242/",
-      "published_date": "2026-06-14T11:51:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "Russian troops change their logistics routes and ammunition supply chains in south, says Voloshyn",
@@ -360,46 +437,11 @@
       "category": "Local Events"
     },
     {
-      "title": "UK forces board the Russian shadow-fleet’s oil tanker in the English Channel for the first time",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/06/14/uk-forces-board-a-russian-shadow-fleet-oil-tanker-in-the-english-channel-for-the-first-time/",
-      "published_date": "2026-06-14T10:03:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US begins production of 65 MSFV armoured vehicles for Ukraine",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039230/",
-      "published_date": "2026-06-14T10:03:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Construction of a modern Orthodox church will begin in Rivne this year",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/06/14/u-rivnomu-tsogorich-rozpochnut-budivnytstvo-suchasnogo-pravoslavnogo-hramu/",
       "published_date": "2026-06-14T09:59:43Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Zelenskyy reveals reports delivered to Putin – photos",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039229/",
-      "published_date": "2026-06-14T09:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Indicators of dissatisfaction will grow\": Zelenskyi voiced intelligence assessments of the situation in the Russian Federation",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/06/14/ozvuchyv-otsinky-rozvidky/",
-      "published_date": "2026-06-14T09:46:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine strikes Russian oil facility located 700 km from border – Zelenskyy",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039223/",
-      "published_date": "2026-06-14T08:29:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "State Border Guard Service reports no provocations along Transnistrian border",
@@ -420,41 +462,6 @@
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039214/",
       "published_date": "2026-06-14T06:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three civilians killed, 14 injured in Donetsk and Kherson oblasts",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/14/8039209/",
-      "published_date": "2026-06-14T05:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine adopts strategic approach to supporting internally displaced persons through 2030",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4133575-ukraine-adopts-strategic-approach-to-supporting-internally-displaced-persons-through-2030.html",
-      "published_date": "2026-06-14T04:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian Ihor Khmara wins World Cup rowing event in Bulgaria",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-sports/4133525-ukrainian-ihor-khmara-wins-world-cup-rowing-event-in-bulgaria.html",
-      "published_date": "2026-06-14T01:35:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schoolgirl from Rivne wins competition in U.S.",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4133489-schoolgirl-from-rivne-wins-competition-in-us.html",
-      "published_date": "2026-06-14T00:36:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renovation of lyceum damaged during Russian occupation completed in Kyiv region",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-vidbudova/4133491-renovation-of-lyceum-damaged-during-russian-occupation-completed-in-kyiv-region.html",
-      "published_date": "2026-06-13T23:36:00Z",
       "category": "Local Events"
     },
     {
@@ -672,13 +679,6 @@
       "source": "Euromaidan Press",
       "url": "https://euromaidanpress.com/2026/06/08/russians-pulled-30-year-record-of-cash-from-banks-in-may-central-bank-started-blocking-withdrawals/",
       "published_date": "2026-06-08T16:40:43Z",
-      "category": "Economy"
-    },
-    {
-      "title": "AI has spooked Putin: Russia alarmed by new surveillance technologies following events in Iran",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/06/08/8038347/",
-      "published_date": "2026-06-08T15:46:00Z",
       "category": "Economy"
     }
   ]
