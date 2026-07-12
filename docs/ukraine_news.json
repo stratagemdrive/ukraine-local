@@ -1,13 +1,356 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-07-11T23:45:31Z",
+  "last_updated": "2026-07-12T12:03:13Z",
   "stories": [
     {
-      "title": "Russia hacks cameras near NATO bases to monitor movement of military equipment",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143228-russia-hacks-cameras-near-nato-bases-to-monitor-movement-of-military-equipment.html",
-      "published_date": "2026-07-11T23:32:00Z",
+      "title": "Wagner’s remnants run an opioid empire in the Central African Republic, WSJ reveals",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/wagners-remnants-run-an-opioid-empire-in-the-central-african-republic-wsj-reveals/",
+      "published_date": "2026-07-12T12:01:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On the anniversary of the death of Iryna Farion, a space of memory with a memorial stele will be opened in Lviv",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/do-rokovyn-zagybeli-iryny-farion-u-lvovi-vidkryyut-prostir-pam-yati-z-memorialnoyu-steloyu/",
+      "published_date": "2026-07-12T11:53:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine’s top missile designer: modern war is won by whoever experiments with weapons faster",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/ukraines-top-missile-designer-modern-war-is-won-by-whoever-experiments-with-weapons-faster/",
+      "published_date": "2026-07-12T11:46:21Z",
       "category": "Military"
+    },
+    {
+      "title": "Zelenskyi announced personnel changes in the government and offered Svyridenko to lead a new important direction",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/zelenskyj-anonsuvav-kadrovi-zminy-v-uryadi-ta-zaproponuvav-svyrydenko-ocholyty-novyj-vazhlyvyj-napryamok/",
+      "published_date": "2026-07-12T11:46:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gasoline prices in Russia increase rapidly amid intensified Ukrainian strikes on oil refineries — ISW",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4143449-gasoline-prices-in-russia-increase-rapidly-amid-intensified-ukrainian-strikes-on-oil-refineries-isw.html",
+      "published_date": "2026-07-12T11:40:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "In Zhytomyr Oblast, a charitable ethno-festival \"EthnoVyr on the Island\" was held: more than 60,000 hryvnias were collected for the Armed Forces of Ukraine",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/na-zhytomyrshhyni-provely-blagodijnyj-etnofestyval-etnovyr-na-vyspi-zibraly-ponad-60-tysyach-gryven-dlya-zsu/",
+      "published_date": "2026-07-12T11:33:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy announces government reshuffle and changes in leadership of law enforcement agencies",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043758/",
+      "published_date": "2026-07-12T11:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European Commission recommends suspending funding for Venice Biennale",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4143445-european-commission-recommends-suspending-funding-for-venice-biennale.html",
+      "published_date": "2026-07-12T11:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians strike Charivne in Kherson region with drone; one person wounded",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143441-russians-strike-charivne-in-kherson-region-with-drone-one-person-wounded.html",
+      "published_date": "2026-07-12T11:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "From an emergency building to a modern building with an anti-radiation shelter: a new surgical building of a children's hospital was opened in Zaporizhzhia",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/vid-avarijnoyi-budivli-do-suchasnogo-korpusu-z-protyradiatsijnym-ukryttyam-u-zaporizhzhi-vidkryly-novyj-hirurgichnyj-korpus-dytyachoyi-likarni/",
+      "published_date": "2026-07-12T10:59:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Satellite images show consequences of strike on oil depot in Russia's Tver: three fuel tanks destroyed – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043756/",
+      "published_date": "2026-07-12T10:58:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Drones set Russia’s Syzran refinery ablaze 800 km from the war zone — analysts count every primary unit hit",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/drones-set-russias-syzran-refinery-ablaze-800-km-from-the-war-zone-analysts-count-every-primary-unit-hit/",
+      "published_date": "2026-07-12T10:52:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "The first equestrian station was opened in Vorokhta - an ecological alternative to motorized tourism",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/u-vorohti-vidkryly-pershu-kinnu-stantsiyu-ekologichnu-alternatyvu-motoryzovanomu-turyzmu/",
+      "published_date": "2026-07-12T10:47:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gas supply resumed to homes in city near Kyiv almost a week after Russian attack",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043754/",
+      "published_date": "2026-07-12T10:43:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Zelenskyy on US Senator Graham's death: America and the world have lost a determined leader",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043753/",
+      "published_date": "2026-07-12T10:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "America and world lose determined leader: Zelensky expresses condolences on death of Senator Graham",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4143439-america-and-world-lose-determined-leader-zelensky-expresses-condolences-on-death-of-senator-graham.html",
+      "published_date": "2026-07-12T10:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The capital funicular will be closed for annual scheduled repairs: when will the work begin and how long will it last",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/stolychnyj-funikuler-zakryyut-na-shhorichnyj-planovyj-remont-koly-rozpochnutsya-i-skilky-tryvatymut-roboty/",
+      "published_date": "2026-07-12T10:26:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "European Commission confirms withdrawal of €2m grant to Venice Biennale over return of Russian pavilion",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043751/",
+      "published_date": "2026-07-12T10:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Man killed and others injured in Chernihiv region after enemy drone strike on yard",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143430-man-killed-and-others-injured-in-chernihiv-region-after-enemy-drone-strike-on-yard.html",
+      "published_date": "2026-07-12T10:20:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian forces continue active attempts to advance in Lyman sector, says Tregubov",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143424-russian-forces-continue-active-attempts-to-advance-in-lyman-sector-says-tregubov.html",
+      "published_date": "2026-07-12T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "America and the world have lost a decisive leader: Zelensky expressed his condolences in connection with the death of Senator Lindsey Graham",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/ameryka-i-svit-vtratyly-rishuchogo-lidera-zelenskyj-vyslovyv-spivchuttya-u-zv-yazku-zi-smertyu-senatora-lindsi-grema/",
+      "published_date": "2026-07-12T09:59:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians strike business in Poltava Oblast",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043745/",
+      "published_date": "2026-07-12T09:55:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Australia tested the Vector AI reconnaissance drone, improved thanks to Ukraine's combat experience",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/avstraliya-vyprobuvala-rozviduvalnyj-dron-vector-ai-vdoskonalenyj-zavdyaky-bojovomu-dosvidu-ukrayiny/",
+      "published_date": "2026-07-12T09:48:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian army attacks industrial facility in Kryvyi Rih for third time this morning",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143420-russian-army-attacks-industrial-facility-in-kryvyi-rih-for-third-time-this-morning.html",
+      "published_date": "2026-07-12T09:40:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Comfortable warming is coming to Ukraine: the forecaster told what the weather will be like at the beginning of the week",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/v-ukrayinu-jde-komfortne-poteplinnya-synoptykynya-rozpovila-yakoyu-bude-pogoda-na-pochatku-tyzhnya/",
+      "published_date": "2026-07-12T09:33:55Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russians attack industrial facility in Kryvyi Rih: two killed",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043747/",
+      "published_date": "2026-07-12T09:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "US Senator Graham died day after his last visit to Kyiv. His Russia’s “sanctions from hell” bill loses its architect at moment it might pass",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/us-senator-graham-died-day-after-his-last-visit-to-kyiv-his-russia-sanctions-from-hell-bill-loses-its-architect-at-moment-it-might-pass/",
+      "published_date": "2026-07-12T09:25:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ninety ships destroyed in one week: Unmanned Systems Forces strike Russian vessels every 112 minutes",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143419-ninety-ships-destroyed-in-one-week-unmanned-systems-forces-strike-russian-vessels-every-112-minutes.html",
+      "published_date": "2026-07-12T09:20:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "One Russian ship every 112 minutes for a week: Ukraine hits 14 more vessels as total tally nears 100",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/one-russian-ship-every-112-minutes-for-a-week-ukraine-hits-14-more-vessels-as-total-tally-nears-100/",
+      "published_date": "2026-07-12T09:04:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russians strike public transport stop in Kherson with drone; four people injured",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143415-russians-strike-public-transport-stop-in-kherson-with-drone-four-people-injured.html",
+      "published_date": "2026-07-12T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poland ready to help Ukraine modernize MiG-29s: what it wants in return",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/07/12/polshha-gotova-dopomogty-ukrayini-z-modernizatsiyeyu-mig-29-shho-proponuye-natomist/",
+      "published_date": "2026-07-12T08:59:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russians attack bus and bus stop in Kherson: at least five injured – photo",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043740/",
+      "published_date": "2026-07-12T08:42:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Fires break out in Kramatorsk due to Russian strikes; rescue workers spend three hours dealing with aftermath",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143411-fires-break-out-in-kramatorsk-due-to-russian-strikes-rescue-workers-spend-three-hours-dealing-with-aftermath.html",
+      "published_date": "2026-07-12T08:40:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine's Beleniuk claims emphatic victory in MMA debut – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043666/",
+      "published_date": "2026-07-12T08:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "For first time, Ukrainian pilots will fly over Champs-Élysées in French Mirages on Bastille Day",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/for-first-time-ukrainian-pilots-will-fly-over-champs-elysees-in-french-mirages-on-bastille-day/",
+      "published_date": "2026-07-12T08:21:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "Enemies launch massive drone attack on Odesa region overnight; infrastructure facility damaged",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143406-enemies-launch-massive-drone-attack-on-odesa-region-overnight-infrastructure-facility-damaged.html",
+      "published_date": "2026-07-12T08:20:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "U.S. Senator Lindsey Graham dies",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4143400-us-senator-lindsey-graham-dies.html",
+      "published_date": "2026-07-12T08:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine's drone commander posts video showing strikes on 14 Russian vessels overnight",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043735/",
+      "published_date": "2026-07-12T07:57:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone attacks minibus in Kherson this morning; casualties reported",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143388-russian-drone-attacks-minibus-in-kherson-this-morning-casualties-reported.html",
+      "published_date": "2026-07-12T07:40:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poland ready to help Ukraine modernise MiG-29 fighter jets",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043731/",
+      "published_date": "2026-07-12T07:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian Defense Forces strike Russian oil refinery, 10 tankers, and four ferries in Sea of Azov",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4143385-ukrainian-defense-forces-strike-russian-oil-refinery-10-tankers-and-four-ferries-in-sea-of-azov.html",
+      "published_date": "2026-07-12T07:21:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainska Pravda receives Ischia International Journalism Award – photo",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043730/",
+      "published_date": "2026-07-12T07:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Baltic states: Russian claims of corridor for Ukrainian drones are false",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043726/",
+      "published_date": "2026-07-12T06:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AI against AI over Ukraine: Russia’s Shahed now sees its target, and Ukraine’s interceptor sees Shahed",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/ai-against-ai-over-ukraine-russias-shahed-now-sees-its-target-and-ukraines-interceptor-sees-shahed/",
+      "published_date": "2026-07-12T06:11:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian missiles that killed 16 in Kyiv this week came from Bryansk. Partisans say they’ve burned EW towers shielding it",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/07/12/russian-missiles-that-killed-16-in-kyiv-this-week-came-from-bryansk-partisans-say-theyve-burned-ew-towers-shielding-it/",
+      "published_date": "2026-07-12T05:50:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two killed, 18 injured in Russian attacks on Donetsk and Kherson oblasts over past day",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043721/",
+      "published_date": "2026-07-12T05:29:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Baltic States lodge protest with Russia over disinformation campaign",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4143345-baltic-states-lodge-protest-with-russia-over-disinformation-campaign.html",
+      "published_date": "2026-07-12T05:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian drone strikes civilians in Kherson: one killed, two injured",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/07/12/8043715/",
+      "published_date": "2026-07-12T04:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukrainian Beleniuk wins MMA debut",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-sports/4143339-ukrainian-beleniuk-wins-mma-debut.html",
+      "published_date": "2026-07-12T04:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court orders three more suspects held in custody over Lviv riots",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-crime/4143235-court-orders-three-more-suspects-held-in-custody-over-lviv-riots.html",
+      "published_date": "2026-07-12T00:25:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Death toll from earthquakes in Venezuela exceeds 4,000",
@@ -17,32 +360,11 @@
       "category": "Local Events"
     },
     {
-      "title": "Power restored to Lavra’s Dormition Cathedral after June 15 attack",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4143174-power-restored-to-lavras-dormition-cathedral-after-june-15-attack.html",
-      "published_date": "2026-07-11T21:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "War update: 215 clashes on front line, Pokrovsk and Sloviansk remain hottest sectors",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143319-war-update-215-clashes-on-front-line-pokrovsk-and-sloviansk-remain-hottest-sectors.html",
-      "published_date": "2026-07-11T20:50:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Zelensky: Ukraine and Poland now facing one common threat – Russia",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-polytics/4143315-zelensky-ukraine-and-poland-now-facing-one-common-threat-russia.html",
       "published_date": "2026-07-11T20:18:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "In Volyn, the memory of the tragic events of the Ukrainian-Polish confrontation during the Second World War was commemorated",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/na-volyni-vshanuvaly-pam-yat-tragichnyh-podij-ukrayinsko-polskogo-protystoyannya-v-roky-drugoyi-svitovoyi-vijny/",
-      "published_date": "2026-07-11T19:49:19Z",
-      "category": "Military"
     },
     {
       "title": "Zelensky announces diplomatic reshuffle to speed up defense agreements",
@@ -52,32 +374,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Each mission is a potential life saved: ground workers have completed more than 16,000 tasks at the front in a month",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/kozhna-misiya-potentsijno-vryatovane-zhyttya-nazemni-roboty-vykonaly-ponad-16-tysyach-zavdan-na-fronti-za-misyats/",
-      "published_date": "2026-07-11T19:30:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Injury toll in Russian airstrike on Zaporizhzhia rises to four",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143313-injury-toll-in-russian-airstrike-on-zaporizhzhia-rises-to-four.html",
-      "published_date": "2026-07-11T19:23:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Zelensky announced changes in the diplomatic corps in order to accelerate the implementation of agreements on the supply of weapons",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/07/11/zelenskyj-anonsuvav-zminy-v-dyplomatychnomu-korpusi-zadlya-pryskorennya-vykonannya-domovlenostej-shhodo-postachannya-zbroyi/",
       "published_date": "2026-07-11T19:20:21Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky: Officials responsible for storing weapons depot in Vyshneve identified",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4143307-zelensky-officials-responsible-for-storing-weapons-depot-in-vyshneve-identified.html",
-      "published_date": "2026-07-11T18:56:00Z",
-      "category": "Military"
     },
     {
       "title": "Ukraine exhumes Volhynia graves from 13 July as Poland’s president seeks a UPA flag ban",
@@ -129,137 +430,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Poland ready to help upgrade Ukraine's MiG-29 jets, Defense Minister says",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-defense/4143301-poland-ready-to-help-upgrade-ukraines-mig29-jets-defense-minister-says.html",
-      "published_date": "2026-07-11T18:05:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelenskyi: the officials who allowed weapons to be stored in Vyshnevo should be held accountable",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/zelenskyj-posadovtsi-yaki-dopustyly-zberigannya-zbroyi-u-vyshnevomu-mayut-ponesty-vidpovidalnist/",
-      "published_date": "2026-07-11T17:59:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy announces changes in Ukraine's diplomatic efforts",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043622/",
-      "published_date": "2026-07-11T17:54:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Syrsky called on the Coalition of the Willing to provide Ukraine with more air defense and anti-ballistic missiles",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/syrskyj-zaklykav-koalitsiyu-ohochyh-nadaty-ukrayini-bilshe-zasobiv-ppo-ta-protybalistychnyh-raket/",
-      "published_date": "2026-07-11T17:49:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "CinC Syrskyi urges Coalition of the Willing to boost Ukraine's air defense, crack down on Russia's shadow fleet",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143294-cinc-syrskyi-urges-coalition-of-the-willing-to-boost-ukraines-air-defense-crack-down-on-russias-shadow-fleet.html",
-      "published_date": "2026-07-11T17:40:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Ukraine has joined the world's largest database of industrial designs DesignView",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/07/11/ukrayina-pryyednalasya-do-najbilshoyi-u-sviti-bazy-danyh-promyslovyh-zrazkiv-designview/",
       "published_date": "2026-07-11T17:36:09Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Russian airstrike on Sloviansk kills one, injures three",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143293-russian-airstrike-on-sloviansk-kills-one-injures-three.html",
-      "published_date": "2026-07-11T17:21:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Eight people injured in Russian attacks on Kherson Oblast",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043620/",
-      "published_date": "2026-07-11T17:06:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian forces launch 30 attacks on Dnipropetrovsk region, one person injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143290-russian-forces-launch-30-attacks-on-dnipropetrovsk-region-one-person-injured.html",
-      "published_date": "2026-07-11T17:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "All 18 apartment buildings were restored in Kyiv region with the support of UNITED24 donors: more than 4,000 people will be able to return to their homes",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/na-kyyivshhyni-vidnovyly-vsi-18-bagatokvartyrnyh-budynkiv-za-pidtrymky-donoriv-united24-ponad-4-tysyachi-lyudej-zmozhut-povernulysya-do-svoyih-osel/",
-      "published_date": "2026-07-11T16:59:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russians hit Sloviansk: one man killed, three others injured",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043619/",
-      "published_date": "2026-07-11T16:54:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "FM Sybiha: Moscow using diplomacy as cover while continuing to kill Ukrainians",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4143286-fm-sybiha-moscow-using-diplomacy-as-cover-while-continuing-to-kill-ukrainians.html",
-      "published_date": "2026-07-11T16:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Polish Defense Minister calls for reconciliation during visit to Volyn",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4143282-polish-defense-minister-calls-for-exhumations-and-reconciliation-during-visit-to-volyn.html",
-      "published_date": "2026-07-11T16:12:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russians strike Zaporizhzhia with guided bombs, injuring three people",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043613/",
-      "published_date": "2026-07-11T15:51:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll from Russian airstrike on Sumy rises to five, 31 injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143275-death-toll-from-russian-airstrike-on-sumy-rises-to-five-31-injured.html",
-      "published_date": "2026-07-11T15:48:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Polish president calls on parliament to ban red-and-black Ukrainian Insurgent Army flag in Poland",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043611/",
-      "published_date": "2026-07-11T15:39:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russians attack Chernihiv, one person injured",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043610/",
-      "published_date": "2026-07-11T15:33:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Part of Sumy left without water supply due to Russian attack",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143269-part-of-sumy-left-without-water-supply-due-to-russian-attack.html",
-      "published_date": "2026-07-11T15:25:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian ambassador in Poland honours Volyn tragedy victims at Warsaw memorial – photos",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043605/",
-      "published_date": "2026-07-11T14:40:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "Kherson declares threat of emergency situation",
@@ -269,132 +444,6 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine will continue search for Volyn tragedy victims and awaits start of work in Poland, says head of memory institute",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043590/",
-      "published_date": "2026-07-11T13:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Third gold of the season: Ukrainian canoeists triumph at World Cup stage in Montreal – video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043576/",
-      "published_date": "2026-07-11T12:16:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In Poltava Oblast, children painted ponies: the network was outraged, the organizer explained it as animal therapy",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/dity-rozmalovuvaly-poni/",
-      "published_date": "2026-07-11T11:27:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A NATO summit full of surprises: how Zelenskyy secured more than expected from Trump",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/articles/2026/07/11/8043566/",
-      "published_date": "2026-07-11T11:07:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Merz to attend Coalition of Willing meeting in Paris next week",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4143195-merz-to-attend-coalition-of-willing-meeting-in-paris-next-week.html",
-      "published_date": "2026-07-11T10:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine integrates its patents and brands into international intellectual property bases",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/11/bazy-intelektualnoyi-vlasnosti/",
-      "published_date": "2026-07-11T10:39:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Türkiye seeks to offload Russian S-400 systems – Bloomberg",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043564/",
-      "published_date": "2026-07-11T10:31:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NATO’s former deputy commander: Ankara papered over the cracks between Europe and America",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/07/11/natos-former-deputy-commander-ankara-papered-over-the-cracks-between-europe-and-america/",
-      "published_date": "2026-07-11T09:10:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Romania says it destroyed five sea drones in Black Sea",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043554/",
-      "published_date": "2026-07-11T09:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine can build Patriots or keep hitting Russia’s refineries—not both, defense scholar says",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/07/11/two-expert-groups-advising-the-uk-defense-ministry-were-asked-if-ukraine-could-build-patriots-in-a-year-both-said-no/",
-      "published_date": "2026-07-11T08:33:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelenskyy reports details of Russia's overnight attack – video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043555/",
-      "published_date": "2026-07-11T08:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Two civilians killed in Kharkiv region due to Russian shelling",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143137-two-civilians-killed-in-kharkiv-region-due-to-russian-shelling.html",
-      "published_date": "2026-07-11T07:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Polish defence minister to visit Ukraine's Volyn",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043549/",
-      "published_date": "2026-07-11T07:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russians kill seven residents of Donetsk region",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4143122-russians-kill-seven-residents-of-donetsk-region.html",
-      "published_date": "2026-07-11T06:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Seven killed and over 20 injured in Russian attacks on Donetsk Oblast",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/11/8043542/",
-      "published_date": "2026-07-11T05:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moldova’s security service notes increase in Russian propaganda on TikTok",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4143103-moldovas-security-service-notes-increase-in-russian-propaganda-on-tiktok.html",
-      "published_date": "2026-07-11T04:45:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Global Coalition of Ukrainian Studies brings together 100 universities from 27 countries, says Zelenska",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4143098-global-coalition-of-ukrainian-studies-brings-together-100-universities-from-27-countries-says-zelenska.html",
-      "published_date": "2026-07-11T03:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lubinets: 40,000 Ukrainians currently live in Greece",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4142962-lubinets-40000-ukrainians-currently-live-in-greece.html",
-      "published_date": "2026-07-11T02:35:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "NBU introduces new UAH 2,000 banknote",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-economy/4142918-nbu-introduces-new-uah-2000-banknote.html",
@@ -402,46 +451,11 @@
       "category": "Economy"
     },
     {
-      "title": "Ukraine's emergency service receives pickup trucks from South Korea to enhance rescue units",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4142755-ukraines-emergency-service-receives-pickup-trucks-from-south-korea-to-enhance-rescue-units.html",
-      "published_date": "2026-07-10T21:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antarctic expedition 2027–2028: selection for Akademik Vernadskyi station has started",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/10/vidbir-na-stantsiyu-akademik-vernadskyj/",
-      "published_date": "2026-07-10T19:32:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public transport fares will rise in Kyiv from July 15: what will change for passengers",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/10/proyizd-u-gromadskomu-transporti/",
-      "published_date": "2026-07-10T19:04:45Z",
-      "category": "Local Events"
-    },
-    {
       "title": "Russian government acknowledges gasoline shortage caused by Ukrainian strikes for first time",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-ato/4143062-russian-government-acknowledges-gasoline-shortage-caused-by-ukrainian-strikes-for-first-time.html",
       "published_date": "2026-07-10T18:57:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Maguchih won the championship of Ukraine, conquering two meters for the first time this season",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/10/maguchih-vygrala-chempionat-ukrayiny/",
-      "published_date": "2026-07-10T18:42:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Massive fire in Chornobyl exclusion zone extinguished after burning for two weeks",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-emergencies/4143001-massive-fire-in-chornobyl-exclusion-zone-extinguished-after-burning-for-two-weeks.html",
-      "published_date": "2026-07-10T18:30:00Z",
-      "category": "Local Events"
     },
     {
       "title": "On the Ryanair plane, a man was almost pulled out through a broken window: he was saved by passengers, media reports",
@@ -598,20 +612,6 @@
       "category": "Energy"
     },
     {
-      "title": "Ukraine’s reserves fell for four months. Oil eased for one, and they grew back.",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/07/08/ukraine-reserves-fall-then-grow-oil-eases/",
-      "published_date": "2026-07-08T10:50:49Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Almost 900 km of new water mains: 29 water supply modernization projects are being implemented in 14 regions",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/08/modernizatsiya-vodopostachannya/",
-      "published_date": "2026-07-08T10:20:50Z",
-      "category": "Energy"
-    },
-    {
       "title": "Russia tried to secure Japanese jet fuel amid shortages. Tokyo closed the loophole",
       "source": "Euromaidan Press",
       "url": "https://euromaidanpress.com/2026/07/07/japan-warns-russia-cannot-bypass-jet-fuel-ban/",
@@ -651,20 +651,6 @@
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/07/05/8042514/",
       "published_date": "2026-07-05T16:15:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Grave of Ukrainian writer vandalised in Poland",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/07/05/8042480/",
-      "published_date": "2026-07-05T11:52:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ukraine and Azerbaijan are expanding cooperation in the areas of reconstruction, investment and construction",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/07/05/ukrayina-ta-azerbajdzhan-rozshyryuyut-spivpratsyu-u-sferah-vidnovlennya-investytsij-ta-budivnytstva/",
-      "published_date": "2026-07-05T11:45:30Z",
       "category": "Economy"
     }
   ]
