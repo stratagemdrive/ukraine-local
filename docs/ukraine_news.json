@@ -1,20 +1,335 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-08-12T23:32:21Z",
+  "last_updated": "2026-08-13T11:52:04Z",
   "stories": [
+    {
+      "title": "UN: 437 civilians killed in Ukraine in July, Kyiv among hardest-hit cities",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153820-un-437-civilians-killed-in-ukraine-in-july-kyiv-among-hardesthit-cities.html",
+      "published_date": "2026-08-13T11:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 12-year-old dies in occupied Kherson Oblast where no hospital or ambulance is left, Ukrainian official says",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/child-dies-without-medical-care-occupied-kherson/",
+      "published_date": "2026-08-13T11:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Over 500 photos: the SSO presented the first photo book about Ukrainian special forces",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/sso-prezentuvaly-pershu-fotoknygu/",
+      "published_date": "2026-08-13T11:27:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine's defence forces strike control tower at Saky airfield in Russian-occupied Crimea",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048530/",
+      "published_date": "2026-08-13T11:27:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Tree lines out, swamps in—Lithuania rethinks how to stop Russian armor at the border",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/tree-lines-out-swamps-in-lithuania-rethinks-how-to-stop-russian-armor-at-the-border/",
+      "published_date": "2026-08-13T11:20:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia returns bodies of 261 fallen Ukrainian soldiers to Ukraine",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153812-russia-returns-bodies-of-261-fallen-ukrainian-soldiers-to-ukraine.html",
+      "published_date": "2026-08-13T11:15:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "WSJ: Ukrainian drone operators defeat US unit during exercise in Germany",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048529/",
+      "published_date": "2026-08-13T11:11:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Defense forces hit a refinery in Bashkortostan 1,300 km from the border: a fire broke out at the enterprise",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/npz-u-bashkortostani-2/",
+      "published_date": "2026-08-13T11:07:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "SBU uncovers Russian spies gathering intelligence on F-16 and Mirage jets at Ukrainian airfields",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153787-sbu-uncovers-russian-spies-gathering-intelligence-on-f16-and-mirage-jets-at-ukrainian-airfields.html",
+      "published_date": "2026-08-13T10:53:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine brings home 261 bodies in latest repatriation, as Russia claims the dead are Ukrainian soldiers",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/ukraine-brings-home-261-bodies-in-latest-repatriation-as-russia-claims-the-dead-are-ukrainian-soldiers/",
+      "published_date": "2026-08-13T10:49:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukrainian K-2 brigade's commander: Russian losses will rise by 50% once the foliage falls",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048524/",
+      "published_date": "2026-08-13T10:47:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine returned the bodies of 261 dead: Russia says they are Ukrainian soldiers",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/povernula-tila-261-zagyblogo/",
+      "published_date": "2026-08-13T10:42:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "Service member reportedly killed in explosion in Russian-occupied Sevastopol",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048511/",
+      "published_date": "2026-08-13T10:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bodies of 261 fallen Ukrainians brought back to Ukraine – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048523/",
+      "published_date": "2026-08-13T10:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man killed in explosion in occupied Sevastopol, Russian sources report",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/man-killed-in-explosion-in-occupied-sevastopol-russian-sources-report/",
+      "published_date": "2026-08-13T10:31:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine's General Staff confirms strike on oil refinery in Bashkortostan",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153782-ukraines-general-staff-confirms-strike-on-oil-refinery-in-bashkortostan.html",
+      "published_date": "2026-08-13T10:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia starts importing gasoline from India after Ukrainian strikes on refineries cause fuel shortages",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/rf-pochala-importuvaty-benzyn/",
+      "published_date": "2026-08-13T10:27:05Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Russians strike market in Sloviansk with drone, injuring people",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048520/",
+      "published_date": "2026-08-13T10:22:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poland would rather the next Russian missile be downed over Ukraine than over its soil. It may send Kyiv more Patriots",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/poland-would-rather-the-next-russian-missile-be-downed-over-ukraine-than-over-its-soil-it-may-send-kyiv-more-patriots/",
+      "published_date": "2026-08-13T10:18:29Z",
+      "category": "Military"
+    },
+    {
+      "title": "The trees cut down for the construction of the heating line in Teremky will be used for the improvement of Kyiv",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/budivnytstva-teplotrasy/",
+      "published_date": "2026-08-13T10:11:29Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Zelensky on Odesa region train strike: It was an entirely civilian target",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153776-zelensky-on-odesa-region-train-strike-it-was-an-entirely-civilian-target.html",
+      "published_date": "2026-08-13T10:08:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia pulled its fleet back to Novorossiysk to keep it safe. Ukraine hit it there with 15 kinds of weapons at once",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/russia-pulled-its-fleet-back-to-novorossiysk-to-keep-it-safe-ukraine-hit-it-there-with-15-kinds-of-weapons-at-once/",
+      "published_date": "2026-08-13T10:06:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Live singing and a new age limit: the Eurovision Song Contest 2027 changes the rules",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/yevrobachennya-2027/",
+      "published_date": "2026-08-13T09:50:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian forces strike Kharkiv region village with jet-powered drones, injuring five",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153768-russian-forces-strike-kharkiv-region-village-with-jetpowered-drones-injuring-five.html",
+      "published_date": "2026-08-13T09:45:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "5% of US Patriot stocks gets Ukraine through winter, 10% ends the ballistic threat — and Zelenskyy has just 1%, he tells CNN",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/sell-us-10-of-your-patriots-and-well-destroy-every-russian-ballistic-missile-zelenskyy-tells-cnn/",
+      "published_date": "2026-08-13T09:37:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine's General Staff confirms strike on Russian refinery 1,300 km from border",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048515/",
+      "published_date": "2026-08-13T09:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "An explosion rang out in Sevastopol: the former commander of a Ukrainian submarine was probably killed",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/u-sevastopoli-prolunav-vybuh-jmovirno-zagynuv-kolyshnij-komandyr-ukrayinskogo-pidvodnogo-chovna/",
+      "published_date": "2026-08-13T09:24:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sybiha thanks Estonia for energy support and Moldova for facilitating Ukrainian grain transit",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4153758-sybiha-thanks-estonia-for-energy-support-and-moldova-for-facilitating-ukrainian-grain-transit.html",
+      "published_date": "2026-08-13T09:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian drones black out occupied Sevastopol and hit the Balaklava power plant",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/ukrainian-drones-black-out-occupied-sevastopol-and-hit-the-balaklava-power-plant/",
+      "published_date": "2026-08-13T09:20:39Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Ukrainian officials could meet Belarusian leader, Ukraine's Foreign Ministry says",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048512/",
+      "published_date": "2026-08-13T09:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyi presents new Ukrainian peace proposals and urges US to increase pressure on Russia",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/propozytsiyi-ukrayiny/",
+      "published_date": "2026-08-13T09:05:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian drones strike Chernihiv, hitting garage cooperatives, several businesses",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153752-russian-drones-strike-chernihiv-hitting-garage-cooperatives-several-businesses.html",
+      "published_date": "2026-08-13T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Balaklava TPP attacked in Sevastopol, major water facility catches fire – social media",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153743-balaklava-tpp-attacked-in-sevastopol-major-water-facility-catches-fire-social-media.html",
+      "published_date": "2026-08-13T08:37:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Katran naval drones to be equipped with UAVs for strikes deep into Russian coastal territory",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048507/",
+      "published_date": "2026-08-13T08:26:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine strikes Gazprom’s Salavat refinery again as Russia’s fuel shortages return in 16 regions",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/ukraine-strikes-gazproms-salavat-refinery-again-as-russias-fuel-shortages-return-in-16-regions/",
+      "published_date": "2026-08-13T08:15:46Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian jet-powered Shahed strikes passenger train in Odesa region, killing driver and assistant",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4153739-russian-jetpowered-shahed-strikes-passenger-train-in-odesa-region-killing-driver-and-assistant.html",
+      "published_date": "2026-08-13T08:15:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poland close to decision on transferring more Patriot missiles to Ukraine",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048503/",
+      "published_date": "2026-08-13T08:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two railway workers killed: a Russian jet drone hit their train’s locomotive in Odesa Oblast",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/08/13/two-railway-workers-killed-a-russian-jet-drone-hit-their-trains-locomotive-in-odesa-oblast/",
+      "published_date": "2026-08-13T07:54:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "When you can't get to the hospital on your own: a mobile medical team helped a man get treatment",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/08/13/mobilna-medychna-brygada/",
+      "published_date": "2026-08-13T07:36:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada among leaders in number and quality of sanctions decisions — Vlasiuk",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4153680-canada-among-leaders-in-number-and-quality-of-sanctions-decisions-vlasiuk.html",
+      "published_date": "2026-08-13T04:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Child dies without medical assistance in Hola Prystan community in occupied Kherson region — Military Administration",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-emergencies/4153679-child-dies-without-medical-assistance-in-hola-prystan-community-in-occupied-kherson-region-military-administration.html",
+      "published_date": "2026-08-13T03:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Around 800 mobile shelters planned along routes used to transport children to schools in frontline regions",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4153678-around-800-mobile-shelters-planned-along-routes-used-to-transport-children-to-schools-in-frontline-regions.html",
+      "published_date": "2026-08-13T03:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Moldova's Defense Minister refuses to answer question in Russian",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4153677-moldovas-defense-minister-refuses-to-answer-question-in-russian.html",
+      "published_date": "2026-08-13T03:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelenskyy reveals how many US Patriot missiles Ukraine needs to survive winter",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/13/8048475/",
+      "published_date": "2026-08-13T03:04:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Large-scale operation shuts down 94 scam call centers across Ukraine",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4153521-largescale-operation-shuts-down-94-scam-call-centers-across-ukraine.html",
+      "published_date": "2026-08-13T01:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukraine seeks to conclude free trade agreement with Bosnia and Herzegovina — ambassador",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4153509-ukraine-seeks-to-conclude-free-trade-agreement-with-bosnia-and-herzegovina-ambassador.html",
+      "published_date": "2026-08-12T23:21:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Suspect detained in Volyn region over attack on two military recruitment officers",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-crime/4153578-suspect-detained-in-volyn-region-over-attack-on-two-military-recruitment-officers.html",
       "published_date": "2026-08-12T22:38:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Ukraine funds its war from wages, and a 1971 law keeps millions of women from earning them",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/13/ukraine-funds-its-war-from-wages-and-a-1971-law-keeps-millions-of-women-from-earning-them/",
-      "published_date": "2026-08-12T22:20:36Z",
-      "category": "Military"
     },
     {
       "title": "Shmyhal discusses further support for energy sector with Japan’s ambassador",
@@ -24,53 +339,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Russian special services step up collection of data on Ukrainian prisoners of war — Coordination Headquarters",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4153326-russian-special-services-step-up-collection-of-data-on-ukrainian-prisoners-of-war-coordination-headquarters.html",
-      "published_date": "2026-08-12T21:31:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian intelligence confirms Russia is forming battalions from Ukrainian POWs",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153629-ukrainian-intelligence-confirms-russia-is-forming-battalions-from-ukrainian-pows.html",
-      "published_date": "2026-08-12T20:57:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russo-Ukrainian war, day 1631: Ukraine destroyed or disabled nearly 14,000 Russian vehicles in July alone",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/russo-ukrainian-war-day-1631-ukraine-destroyed-or-disabled-nearly-14000-russian-vehicles-in-july-alone/",
-      "published_date": "2026-08-12T20:47:40Z",
-      "category": "Military"
-    },
-    {
       "title": "Around 6,000 Ukrainian civilians may remain in occupied parts of Kherson region – Lubinets",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-society/4153648-around-6000-ukrainian-civilians-may-remain-in-occupied-parts-of-kherson-region-lubinets.html",
       "published_date": "2026-08-12T20:39:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Two Kalibr-carrying frigates, a missile ship, a patrol vessel: Ukraine hit four Russian warships in one night at Novorossiysk",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/two-kalibr-carrying-frigates-a-missile-ship-a-patrol-vessel-ukraine-hit-four-russian-warships-in-one-night-at-novorossiysk/",
-      "published_date": "2026-08-12T20:38:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia has figured out how to stop Ukraine’s most powerful missile",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/fp-5s-shot-down/",
-      "published_date": "2026-08-12T20:29:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia starves most Ukrainian POWs, then “fattens” a few for exchange so they look normal, Ukrainian official says",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/russia-starves-most-ukrainian-pows-then-fattens-a-few-for-exchange-so-they-look-normal-ukrainian-official-says/",
-      "published_date": "2026-08-12T20:28:02Z",
-      "category": "Military"
     },
     {
       "title": "Around 700 vessels carrying Russian oil are under sanctions – Vlasiuk",
@@ -85,13 +358,6 @@
       "url": "https://www.ukrinform.net/rubric-vidbudova/4153631-north-macedonia-supplies-power-transformers-to-energy-companies-in-kharkiv-zaporizhzhia-regions.html",
       "published_date": "2026-08-12T19:52:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Lubinets to propose working group to new defense minister to reform Ukraine's mobilization system",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4153638-lubinets-to-propose-working-group-to-new-defense-minister-to-reform-ukraines-mobilization-system.html",
-      "published_date": "2026-08-12T19:30:00Z",
-      "category": "Military"
     },
     {
       "title": "Zelensky says Russia can and must end war after Ukrainian operation in Novorossiysk",
@@ -129,53 +395,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ministry of Defense: more than 500,000 servicemen already have a military registration document in Army+",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/minoborony-ponad-500-tysyach-vijskovosluzhbovtsiv-uzhe-mayut-vijskovo-oblikovyj-dokument-v-armiya/",
-      "published_date": "2026-08-12T18:14:21Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia builds 3,000 jet drones monthly to counter Ukrainian interceptors, HUR says",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/russia-geran-drones-production/",
-      "published_date": "2026-08-12T18:02:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "A Ukrainian railway engineer spied on Lyman’s defenses for Russia using Google Maps",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/a-railway-engineer-spied-on-lymans-defenses-for-russia/",
-      "published_date": "2026-08-12T18:01:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russia uses four main narratives regarding POWs and missing persons — CCD",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153623-russia-uses-four-main-narratives-regarding-pows-and-missing-persons-ccd.html",
-      "published_date": "2026-08-12T17:59:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/08/12/na-punkti-propusku-porubne-siret-zavershyly-pershu-chergu-modernizatsiyi-vantazhnogo-terminala-proyekt-perehodyt-do-novogo-etapu/",
       "published_date": "2026-08-12T17:57:24Z",
       "category": "Local Events"
-    },
-    {
-      "title": "The Air Force reports will limit information about enemy ballistics, Ignat",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/u-zvedennyah-povitryanyh-syl-obmezhat-informatsiyu-pro-vorozhu-balistyku-ignat/",
-      "published_date": "2026-08-12T17:47:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Defense Forces hit four Russian warships in Novorossiysk",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153618-defense-forces-hit-four-russian-warships-in-novorossiysk.html",
-      "published_date": "2026-08-12T17:37:00Z",
-      "category": "Military"
     },
     {
       "title": "Putin does not want to stop this war, but he will stop it: Zelensky said that Ukraine has a joint plan with its partners",
@@ -185,53 +409,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Defense Forces carry out more than 449,000 missions in July, hitting 226,000 Russian targets",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153614-defense-forces-carry-out-more-than-449000-missions-in-july-hitting-226000-russian-targets.html",
-      "published_date": "2026-08-12T17:20:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukrainian online marketplace Rozetka cuts jobs after Russian strike on its largest warehouse",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048446/",
-      "published_date": "2026-08-12T17:10:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The General Staff of the Armed Forces of Ukraine: during the attack on the port in Novorossiysk, four enemy warships were damaged",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/genshtab-zsu-pid-chas-ataky-po-portu-v-novorosijsku-urazheno-chotyry-vijskovi-korabli-voroga/",
-      "published_date": "2026-08-12T16:59:48Z",
-      "category": "Military"
-    },
-    {
       "title": "Russians attack Dnipropetrovsk region nearly 50 times since morning, damage reported",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-ato/4153610-russians-attack-dnipropetrovsk-region-nearly-50-times-since-morning-damage-reported.html",
       "published_date": "2026-08-12T16:59:00Z",
       "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian forces hit 4 warships in Novorossiysk, including Kalibr carriers",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048442/",
-      "published_date": "2026-08-12T16:57:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "In Kyiv, every tenth educational institution is being restored after enemy shelling: in five schools, repairs will continue even after September 1",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/u-kyyevi-kozhen-desyatyj-zaklad-osvity-vidnovlyuyut-pislya-vorozhyh-obstriliv-u-p-yaty-shkolah-remont-tryvatyme-j-pislya-1-veresnya/",
-      "published_date": "2026-08-12T16:51:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russians work three shifts to build jet-powered missiles powered by a $16,000 Chinese engine from AliExpress",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/12/russians-work-three-shifts-to-build-jet-powered-missiles-powered-by-a-16000-chinese-engine-from-aliexpress/",
-      "published_date": "2026-08-12T16:50:50Z",
-      "category": "Military"
     },
     {
       "title": "Zelenskyy and Armenian PM discuss closer cooperation in phone call",
@@ -283,67 +465,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ukrainian forces liberate 26 villages during offensive on Oleksandrivka axis – Zelensky",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153558-ukrainian-forces-liberate-26-villages-during-offensive-on-oleksandrivka-axis-zelensky.html",
-      "published_date": "2026-08-12T14:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian law enforcement officials charge Russia's Kursk detention centre staff with torturing and beating civilians",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048419/",
-      "published_date": "2026-08-12T14:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelenskyy: Ukrainian forces liberate 26 villages during offensive on Oleksandrivka front",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048414/",
-      "published_date": "2026-08-12T13:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Russia hit by new wave of fuel crisis",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048412/",
       "published_date": "2026-08-12T13:19:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Ukrainian Krachko, 16, becomes European silver medallist in junior canoe slalom – photo",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048357/",
-      "published_date": "2026-08-12T12:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lithuania builds new defence line along border with Russia and Belarus",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048404/",
-      "published_date": "2026-08-12T12:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moldova gives Ukraine discount on rail freight transit",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048403/",
-      "published_date": "2026-08-12T12:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Allies still have Patriot missile stocks that could be supplied to Ukraine – German expert",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153501-allies-still-have-patriot-missile-stocks-that-could-be-supplied-to-ukraine-german-expert.html",
-      "published_date": "2026-08-12T12:23:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian Ministry of Defense reports capture of nonexistent village in Kharkiv region",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153492-russian-ministry-of-defense-reports-capture-of-nonexistent-village-in-kharkiv-region.html",
-      "published_date": "2026-08-12T12:00:00Z",
-      "category": "Local Events"
     },
     {
       "title": "Crude goes south, gasoline north—Ukraine’s strikes split Russia’s oil trade",
@@ -353,55 +479,6 @@
       "category": "Energy"
     },
     {
-      "title": "In Britain, a memorial plaque was opened in memory of those who died as a result of the Chernobyl disaster",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/chaes-brytaniya/",
-      "published_date": "2026-08-12T11:14:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine's emergency service requests humanitarian mine clearance equipment through NATO mechanism",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048388/",
-      "published_date": "2026-08-12T11:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Two Ukrainian coins compete for Coin of the Year award",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/dvi-monety/",
-      "published_date": "2026-08-12T10:56:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kosovo echoes Ukraine: Why Zelenskyy's remarks in Serbia outraged Kosovans and Russia's role here",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/articles/2026/08/12/8048379/",
-      "published_date": "2026-08-12T10:31:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Ministry of Defense of the Russian Federation announced the seizure of a village in the Kharkiv region, which no longer exists",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/08/12/zahoplennya-sela-na-harkivshhyni/",
-      "published_date": "2026-08-12T09:54:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One person injured and damage reported in Balakliia following repeated Russian shelling",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153454-one-person-injured-and-damage-reported-in-balakliia-following-repeated-russian-shelling.html",
-      "published_date": "2026-08-12T09:47:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three people injured in Chernihiv region due to Russian attacks",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153442-three-people-injured-in-chernihiv-region-due-to-russian-attacks.html",
-      "published_date": "2026-08-12T09:27:00Z",
-      "category": "Local Events"
-    },
-    {
       "title": "500 systems already this year: Ukrainian NRC Ravlyk will be produced in Denmark",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/08/12/nrk-ravlyk/",
@@ -409,60 +486,11 @@
       "category": "Economy"
     },
     {
-      "title": "Putin dons naval uniform to issue fresh threats to the West – video",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048352/",
-      "published_date": "2026-08-12T08:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelenskyy: Ukrainian-made drones and missiles hit Russian naval base in Novorossiysk",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048350/",
-      "published_date": "2026-08-12T08:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Ukrenergo: Russian attacks cause new power outages in five regions",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-economy/4153405-ukrenergo-russian-attacks-cause-new-power-outages-in-five-regions.html",
       "published_date": "2026-08-12T08:05:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Two-thirds of Poles support deportation of unemployed Ukrainian men",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048347/",
-      "published_date": "2026-08-12T07:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian forces kill one resident of Donetsk region and injure thirteen others",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4153358-russian-forces-kill-one-resident-of-donetsk-region-and-injure-thirteen-others.html",
-      "published_date": "2026-08-12T06:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Number of Ukrainians with temporary protection in EU increases – infographics",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048335/",
-      "published_date": "2026-08-12T06:12:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia's exclusion from senior curling competitions extended until end of year",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/08/12/8048324/",
-      "published_date": "2026-08-12T05:58:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Ghosts of Bakhmut: Memoirs of Sniper” by legendary unit commander to be published in Ukraine",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4153244-ghosts-of-bakhmut-memoirs-of-sniper-by-legendary-unit-commander-to-be-published-in-ukraine.html",
-      "published_date": "2026-08-12T01:29:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "Kyiv region receives 55 pieces of power generation equipment from Belgium",
@@ -598,39 +626,11 @@
       "category": "Energy"
     },
     {
-      "title": "Energy workers restore power to 128,000 consumers in Odesa region after Russian attack",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-economy/4152617-energy-workers-restore-power-to-128000-consumers-in-odesa-region-after-russian-attack.html",
-      "published_date": "2026-08-09T20:20:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Energy workers restore power to 128,000 consumers in Odesa region after Russian attack",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4152617-energy-workers-restore-power-to-128000-consumers-in-odesa-region-after-russian-attack.html",
-      "published_date": "2026-08-09T20:20:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukrenergo forecasts no power outages on Monday",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-economy/4152600-ukrenergo-forecasts-no-power-outages-on-monday.html",
-      "published_date": "2026-08-09T17:51:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "A wiring maker for Volkswagen and Škoda takes a Russian hit in Zhytomyr Oblast",
       "source": "Euromaidan Press",
       "url": "https://euromaidanpress.com/2026/08/09/a-wiring-maker-for-volkswagen-and-skoda-takes-a-russian-hit-in-zhytomyr-oblast/",
       "published_date": "2026-08-09T16:19:35Z",
       "category": "Economy"
-    },
-    {
-      "title": "Russia plans to make upcoming winter unsurvivable for Ukrainian civilians: Moscow is hitting Ukraine’s gas extraction sites to make heating impossible in cold",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/08/09/russia-plans-to-make-upcoming-winter-unsurvivable-for-ukrainian-civilians-moscow-is-hitting-ukraines-gas-extraction-sites-to-make-heating-impossible-in-cold/",
-      "published_date": "2026-08-09T15:20:47Z",
-      "category": "Energy"
     },
     {
       "title": "Robotic complexes \"Lynx\" received an additional communication channel: how it works",
