@@ -1,7 +1,420 @@
 {
   "country": "ukraine",
-  "last_updated": "2026-10-30T02:17:17Z",
+  "last_updated": "2026-10-30T16:58:29Z",
   "stories": [
+    {
+      "title": "Russian forces strike Dnipro railway station again, injuring one person",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179850-russian-forces-strike-dnipro-railway-station-again-injuring-one-person.html",
+      "published_date": "2026-10-30T16:48:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Від керованих ракет до радарів: українським виробникам пропонують гранти на нові розробки",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/granty-na-novi-rozrobky/",
+      "published_date": "2026-10-30T16:38:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US delays the Patriot missiles Ukraine needs against ballistic strikes but keeps sending older PAC-2s",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/us-delays-the-patriot-missiles-ukraine-needs-against-ballistic-strikes-but-keeps-sending-older-pac-2s/",
+      "published_date": "2026-10-30T16:20:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“We have been killed”: Novaya Gazeta, the last major independent newsroom still working from inside Russia, closes after losing its Moscow office and its reader donations in the same week",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/we-have-been-killed-novaya-gazeta-the-last-major-independent-newsroom-still-working-from-inside-russia-closes-after-losing-its-moscow-office-and-its-reader-donations-in-the-same-w/",
+      "published_date": "2026-10-30T16:12:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“We need asymmetric effect,” Defense Minister Khmara says, as Ukraine funds its own missiles and radars to stop burning costly interceptors on cheap Russia’s drones",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/we-need-asymmetric-effect-defense-minister-khmara-says-as-ukraine-funds-its-own-missiles-and-radars-to-stop-burning-costly-interceptors-on-cheap-russias-drones/",
+      "published_date": "2026-10-30T16:09:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "У Києві з 2 листопада почнуть подавати тепло до житлових будинків: скільки триватиме запуск",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/teplo-do-zhytlovyh-budynkiv/",
+      "published_date": "2026-10-30T16:06:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NATO's top commander sees no delays in delivery of Patriot missiles to Ukraine – Bloomberg",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060510/",
+      "published_date": "2026-10-30T16:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian forces strike critical infrastructure facility in Dnipro",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179830-russian-forces-strike-critical-infrastructure-facility-in-dnipro.html",
+      "published_date": "2026-10-30T16:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Azov says it struck more than 100 Russian trains in occupied Donbas in four months, in part thanks to donations",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/azov-says-it-struck-more-than-100-russian-trains-in-occupied-donbas-in-four-months-in-part-thanks-to-donations/",
+      "published_date": "2026-10-30T15:54:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia hits Dnipro railway station for second consecutive day",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060507/",
+      "published_date": "2026-10-30T15:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“We were told brigade couldn’t be saved”: Ukraine’s 125th grew its manning 430% and won back 1,500 absent soldiers in one year",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/we-were-told-brigade-couldnt-be-saved-how-ukraines-125th-grew-its-manning-430-and-won-back-1500-absent-soldiers/",
+      "published_date": "2026-10-30T15:49:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Майже 16 млн грн збитків на ремонті медуніверситету Богомольця: підозри отримали двоє керівників",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/zbytkiv-na-remonti-meduniversytetu/",
+      "published_date": "2026-10-30T15:46:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russians strike critical infrastructure in Dnipro for second time in one day",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060506/",
+      "published_date": "2026-10-30T15:45:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Zelensky to visit Türkiye on October 31, Turkish Presidency announces",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179824-zelensky-to-visit-turkiye-on-october-31-turkish-presidency-announces.html",
+      "published_date": "2026-10-30T15:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "У Словаччині знову перевірять законність передачі Україні винищувачів і систем ППО: відновлять розслідування",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/peredachi-ukrayini-vynyshhuvachiv/",
+      "published_date": "2026-10-30T15:30:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zelenskyy expected in Türkiye on 31 October",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060503/",
+      "published_date": "2026-10-30T15:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian delegation and evacuated residents of Oleshky heading to Russia’s Anapa",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-society/4179814-ukrainian-delegation-and-evacuated-residents-of-oleshky-heading-to-russias-anapa.html",
+      "published_date": "2026-10-30T15:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "250 тисяч фото залізниць і транспортних об’єктів: у Польщі затримали підозрюваного у шпигунстві росіянина",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/pidozryuvanogo-u-shpygunstvi-rosiyanyna/",
+      "published_date": "2026-10-30T15:17:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The US is reviewing a request to lift sanctions on Russia’s state investment fund, run by Putin’s envoy",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/the-us-is-reviewing-a-request-to-lift-sanctions-on-russias-state-investment-fund-run-by-putins-envoy/",
+      "published_date": "2026-10-30T15:15:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian photographer Sasha Kurmaz shortlisted for prestigious Deutsche Börse Prize – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060502/",
+      "published_date": "2026-10-30T15:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poland holds a suspect for stabbing two Ukrainians for their nationality, the latest case in a year of rising hate crimes against them",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/poland-holds-a-suspect-for-stabbing-two-ukrainians-for-their-nationality-the-latest-case-in-a-year-of-rising-hate-crimes-against-them/",
+      "published_date": "2026-10-30T15:05:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU plans to allocate €8.04bn to Ukraine under Ukraine Facility",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060496/",
+      "published_date": "2026-10-30T15:05:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "October 31 declared Day of Mourning in Izium as death toll from Russian airstrike rises to five",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179811-october-31-declared-day-of-mourning-in-izium-as-death-toll-from-russian-airstrike-rises-to-five.html",
+      "published_date": "2026-10-30T14:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Українська делегація супроводжує евакуйованих з Олешок: людей доправлять через Анапу до Білорусі",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/evakujovanyh-z-oleshok/",
+      "published_date": "2026-10-30T14:58:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Power supply situation is difficult in Kyiv and Dnipropetrovsk and Kyiv oblasts, says Energy Ministry",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060494/",
+      "published_date": "2026-10-30T14:58:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Evacuees from Oleshky head to Russia before flying to Belarus – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060492/",
+      "published_date": "2026-10-30T14:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine resumes environmental monitoring of the Black Sea",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/monitoryng-chornogo-morya/",
+      "published_date": "2026-10-30T14:41:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ukraine’s SOF ambush enemy in Russia and seize documents",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179800-ukraines-sof-ambush-enemy-in-russia-and-seize-documents.html",
+      "published_date": "2026-10-30T14:39:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Розмінувати майбутнє”: в Україні випустили книгу про українських саперів і становлення гуманітарного розмінування",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/rozminuvaty-majbutnye-v-ukrayini-vypustyly-knygu-pro-ukrayinskyh-saperiv-i-stanovlennya-gumanitarnogo-rozminuvannya/",
+      "published_date": "2026-10-30T14:33:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Manufacturer of Ruta cruise missiles used by Ukraine's defence forces reveals production figures – video",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060488/",
+      "published_date": "2026-10-30T14:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One injured, apartment buildings and school damaged in Russian strike on Dnipro",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179790-one-injured-apartment-buildings-and-school-damaged-in-russian-strike-on-dnipro.html",
+      "published_date": "2026-10-30T14:18:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Дрони, автомати та військові квести: окупанти навчають кримських дітей користуватися зброєю",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/okupanty-navchayut-krymskyh-ditej/",
+      "published_date": "2026-10-30T14:17:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NATO top commander sees no delays in delivery of Patriot missiles to Ukraine",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179783-nato-top-commander-sees-no-delays-in-delivery-of-patriot-missiles-to-ukraine.html",
+      "published_date": "2026-10-30T14:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dozens of Russian drones fell to gun turrets over Kyiv in a month, Ukraine’s Defense Ministry says",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/dozens-of-russian-drones-fell-to-gun-turrets-over-kyiv-in-a-month-ukraines-defense-ministry-says/",
+      "published_date": "2026-10-30T13:57:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "У Варшаві затримали чоловіка, який напав із ножем на двох українців через їхнє походження",
+      "source": "Rubryka",
+      "url": "https://rubryka.com/en/2026/10/30/u-varshavi-zatrymaly-cholovika/",
+      "published_date": "2026-10-30T13:57:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Polish police seize 250,000 photos of critical infrastructure from detained Russian national",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060482/",
+      "published_date": "2026-10-30T13:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia strikes Kharkiv shopping centre with jet-powered drone, forcing temporary closure",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060481/",
+      "published_date": "2026-10-30T13:46:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Another Russian “state-of-the-art” Su-57 fighter burned at Akhtubinsk, apparently without anyone shooting at it",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/another-russian-state-of-the-art-su-57-fighter-burned-at-akhtubinsk-apparently-without-anyone-shooting-at-it/",
+      "published_date": "2026-10-30T13:40:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russian drone strikes enterprise in Shostka, killing one and injuring eight",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179779-russian-drone-strikes-enterprise-in-shostka-killing-one-and-injuring-eight.html",
+      "published_date": "2026-10-30T13:40:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russia’s Geran-5 has hit 1,000 km/h in maneuvers, and Chinese engineers help develop some technical solutions for Russia’s drones",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/russias-geran-5-has-hit-1000-km-h-in-maneuvers-and-chinese-engineers-help-develop-some-technical-solutions-for-russias-drones/",
+      "published_date": "2026-10-30T13:38:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Poland detains man suspected of stabbing two Ukrainians in ethnically-motivated attack",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060470/",
+      "published_date": "2026-10-30T13:25:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Poland may reconsider transferring additional MiG-29s to Ukraine if Bulgaria deal falls through – expert",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179774-poland-may-reconsider-transferring-additional-mig29s-to-ukraine-if-bulgaria-deal-falls-through-expert.html",
+      "published_date": "2026-10-30T13:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Pentagon wants NATO’s eastern flank to be quiet about Russia while Washington courts Moscow",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/the-pentagon-wants-natos-eastern-flank-to-be-quiet-about-russia-while-washington-courts-moscow/",
+      "published_date": "2026-10-30T13:11:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Shmyhal: Russia has carried out more than 350 attacks on Ukraine’s energy sector since September",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4179747-shmyhal-russia-has-carried-out-more-than-350-attacks-on-ukraines-energy-sector-since-september.html",
+      "published_date": "2026-10-30T12:58:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Destinus says it now makes more cruise missiles a month than Europe did a year before 2022, but engines are what Ukraine’s strike programs are short of",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/destinus-says-it-now-makes-more-cruise-missiles-a-month-than-europe-did-a-year-before-2022-but-engines-are-what-ukraines-strike-programs-are-short-of/",
+      "published_date": "2026-10-30T12:57:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russians teach children to operate drones and fire assault rifles in occupied Crimea – Ukrainian intelligence",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060460/",
+      "published_date": "2026-10-30T12:44:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Land for peace: how Kyiv is trying to break Russia's negotiating formula",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060467/",
+      "published_date": "2026-10-30T12:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians attack Nizhyn district of Chernihiv Oblast: three injured, garages catch fire – photos",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060464/",
+      "published_date": "2026-10-30T12:33:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Shadows, roofs, job ads give Ukrainian arms plants away to Russian analysts, Ukrainian experts warn",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/shadows-roofs-job-ads-give-ukrainian-arms-plants-away-to-russian-analysts-ukrainian-experts-warn/",
+      "published_date": "2026-10-30T12:31:31Z",
+      "category": "Military"
+    },
+    {
+      "title": "They rescued passengers during evacuation: five railway employees killed in strike on Dnipro train station",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060465/",
+      "published_date": "2026-10-30T12:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Russian drone strikes building in center of Novhorod-Siverskyi",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179743-russian-drone-strikes-building-in-center-of-novhorodsiverskyi.html",
+      "published_date": "2026-10-30T12:26:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "UP: Kravchenko was stopped at border as flagged by anti-corruption agencies but let through after call from Kyiv",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060451/",
+      "published_date": "2026-10-30T11:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NATO says it has much to learn from Ukraine in field of innovation",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060453/",
+      "published_date": "2026-10-30T11:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ukrainian officials reach Russian-held Oleshky. The question now is where its residents can go",
+      "source": "Euromaidan Press",
+      "url": "https://euromaidanpress.com/2026/10/30/ukrainian-officials-reach-russian-held-oleshky-the-question-now-is-where-its-residents-can-go/",
+      "published_date": "2026-10-30T11:45:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Head of the President's Office: Humanitarian operation underway in Oleshky, transport arranged",
+      "source": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/30/8060447/",
+      "published_date": "2026-10-30T11:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ukraine imposes new sanctions on Russia's Rassvet satellite system, 39 shadow fleet vessels",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179685-ukraine-imposes-new-sanctions-on-russias-rassvet-satellite-system-39-shadow-fleet-vessels.html",
+      "published_date": "2026-10-30T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No ceasefire violations reported in Oleshky over past 75 hours – Lubinets",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4179675-no-ceasefire-violations-reported-in-oleshky-over-past-75-hours-lubinets.html",
+      "published_date": "2026-10-30T09:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian attacks leave consumers without power in Kyiv and four regions – Ukrenergo",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-economy/4179670-russian-attacks-leave-consumers-without-power-in-kyiv-and-four-regions-ukrenergo.html",
+      "published_date": "2026-10-30T09:34:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Latvia to chair UN Security Council for first time, with Ukraine among its priorities",
+      "source": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179657-latvia-to-chair-un-security-council-for-first-time-with-ukraine-among-its-priorities.html",
+      "published_date": "2026-10-30T08:52:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "National Bank revises 2026 real GDP forecast downward",
       "source": "Ukrinform",
@@ -24,67 +437,11 @@
       "category": "Energy"
     },
     {
-      "title": "Russia suffers record battlefield losses in October – General Staff",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179308-russia-suffers-record-battlefield-losses-in-october-general-staff.html",
-      "published_date": "2026-10-29T22:35:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "An armored capsule instead of an open platform: Ukraine develops an evacuation module for the Murakha UGV",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/30/an-armored-capsule-instead-of-an-open-platform-ukraine-develops-an-evacuation-module-for-the-murakha-ugv/",
-      "published_date": "2026-10-29T22:25:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russo-Ukrainian war, day 1709: Russian jet drone kills 14 on Dnipro railway platform beside a Zaporizhzhia-bound train",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/30/russo-ukrainian-war-day-1709/",
-      "published_date": "2026-10-29T22:15:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Five more Ukrainians evacuated from temporarily occupied territories – Lubinets",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179555-five-more-ukrainians-evacuated-from-temporarily-occupied-territories-lubinets.html",
-      "published_date": "2026-10-29T21:57:00Z",
-      "category": "Local Events"
-    },
-    {
       "title": "Steinmeier urges China to use its influence on Russia to end war against Ukraine",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-polytics/4179552-steinmeier-urges-china-to-use-its-influence-on-russia-to-end-war-against-ukraine.html",
       "published_date": "2026-10-29T21:30:00Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Classrooms in Sumy Oblast are moving underground due to Russian shelling: 13 such schools are already operating, nine are under construction, and another 14 are at the design stage",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/classrooms-in-sumy-oblast-are-moving-underground-due-to-russian-shelling-13-such-schools-are-already-operating-nine-are-under-construction-and-another-14-are-at-the-design-stage/",
-      "published_date": "2026-10-29T21:20:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Over 460 flights delayed or canceled in Moscow, St. Petersburg amid drone attack – media",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179549-over-460-flights-delayed-or-canceled-in-moscow-st-petersburg-amid-drone-attack-media.html",
-      "published_date": "2026-10-29T21:08:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "“The enemy has changed tactics”: Zaporizhzhia faces record number of Russian FPV drone attacks, hitting public transport 3 times in one day",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/zaporizhzhia-faces-record-number-of-russian-fpv-drone-attacks/",
-      "published_date": "2026-10-29T20:49:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "Routes to Oleshky cleared of mines, humanitarian convoy ready to depart – Lubinets",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179547-routes-to-oleshky-cleared-of-mines-humanitarian-convoy-ready-to-depart-lubinets.html",
-      "published_date": "2026-10-29T20:45:00Z",
-      "category": "Local Events"
     },
     {
       "title": "Zelensky: Russian strikes killed 19 people in Dnipro, Chernihiv, Kremenchuk",
@@ -94,53 +451,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ukrainian Neptune strike destroys two Russian Su-34 bombers used to attack frontline cities, Ukraine’s Navy says",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/ukrainian-neptune-strike-destroys-two-russian-su-34-bombers/",
-      "published_date": "2026-10-29T20:07:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zelensky: Intelligence reports Russia preparing new ballistic missile strikes",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179537-zelensky-intelligence-reports-russia-preparing-new-ballistic-missile-strikes.html",
-      "published_date": "2026-10-29T20:00:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Solutions to win: German GEREON ground robots to be equipped with Ukrainian Saber combat modules after successful initial tests",
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/10/29/nimetski-nazemni-roboty-gereon-osnastyat-ukrayinskymy-bojovymy-modulyamy-shablya-pershi-vyprobuvannya-projshly-uspishno/",
       "published_date": "2026-10-29T19:57:21Z",
       "category": "Diplomacy"
-    },
-    {
-      "title": "У Львові вперше відкрили виставку World Press Photo 2026: серед переможців – український фотограф Євген Малолєтка",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/u-lvovi-vpershe-vidkryly-vystavku-world-press-photo-2026-sered-peremozhtsiv-ukrayinskyj-fotograf-yevgen-malolyetka/",
-      "published_date": "2026-10-29T19:46:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attack on humanitarian mission bus in Zaporizhzhia region kills woman, injures three",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179535-russian-attack-on-humanitarian-mission-bus-in-zaporizhzhia-region-kills-woman-injures-three.html",
-      "published_date": "2026-10-29T19:34:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "У системі Міноборони та ЗСУ вже майже 800 гендерних радників: вони опікуються забезпеченням рівних прав жінок і чоловіків у війську",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/u-systemi-minoborony-ta-zsu-vzhe-majzhe-800-gendernyh-radnykiv-vony-opikuyutsya-zabezpechennyam-rivnyh-prav-zhinok-i-cholovikiv-u-vijsku/",
-      "published_date": "2026-10-29T19:26:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Zakon, the Ukrainian font designed to write Russian type out of state documents",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/meet-zakon-ukraine-creates-its-own-national-font-amid-de-russification-push/",
-      "published_date": "2026-10-29T19:24:01Z",
-      "category": "Local Events"
     },
     {
       "title": "NATO fears Trump will not supply interceptors to Ukraine before US elections – Euronews",
@@ -150,277 +465,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Admiral Bauer: If Russia attacks, Alliance will fight back to break enemy",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179528-admiral-bauer-if-russia-attacks-alliance-will-fight-back-to-break-enemy.html",
-      "published_date": "2026-10-29T19:10:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Російський дрон атакував автобус гуманітарної місії на Запоріжжі: загинула пасажирка, є поранені",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/rosijskyj-dron-atakuvav-avtobusu-gumanitarnoyi-misiyi-na-zaporizhzhi-zagynula-pasazhyrka-ye-poraneni/",
-      "published_date": "2026-10-29T18:59:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Зеленський: є інформація від розвідки про підготовку росіянами нових балістичних ударів",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/zelenskyj-ye-informatsiya-vid-rozvidky-pro-pidgotovku-rosiyanamy-novyh-balistychnyh-udariv/",
-      "published_date": "2026-10-29T18:48:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Demining complete, humanitarian convoy ready: Oleshky mission advances as ceasefire holds and Lubinets heads to occupied city",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/oleshky-mission-advances/",
-      "published_date": "2026-10-29T18:47:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zelenskyy: Russians planning further ballistic missile strikes",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060351/",
-      "published_date": "2026-10-29T18:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian forces strike student dormitory in Dnipro, two teenage girls injured",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179523-russian-forces-strike-student-dormitory-in-dnipro-two-teenage-girls-injured.html",
-      "published_date": "2026-10-29T18:45:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Private air defence robotic turrets have destroyed over 60 targets",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060346/",
-      "published_date": "2026-10-29T18:37:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Putin says Finnish and Norwegian leaders \"did the right thing\" by calling him",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060345/",
-      "published_date": "2026-10-29T18:33:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Лубінець заявив, що розмінування маршрутів в Олешках завершено: гуманітарний конвой готовий до відправлення",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/lubinets-zayavyv-shho-rozminuvannya-marshrutiv-v-oleshkah-zaversheno-gumanitarnyj-konvoj-gotovyj-do-vidpravlennya/",
-      "published_date": "2026-10-29T18:27:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukrainian, US, Russian representatives arrive at site from which aid will be delivered to Oleshky",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179518-ukrainian-us-russian-representatives-arrive-at-site-from-which-aid-will-be-delivered-to-oleshky.html",
-      "published_date": "2026-10-29T18:27:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Human rights commissioner: routes demined, people wishing to leave Oleshky have until 14:00 to do so",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060343/",
-      "published_date": "2026-10-29T18:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ukraine strikes Russian airfield with Neptune missiles, two Su-34s destroyed",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179515-ukraine-strikes-russian-airfield-with-neptune-missiles-two-su34s-destroyed.html",
-      "published_date": "2026-10-29T18:08:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Україна отримала від Азербайджану нову партію енергообладнання на понад $1,47 млн",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/ukrayina-otrymala-vid-azerbajdzhanu-novu-partiyu-energoobladnannya-na-ponad-1-47-mln/",
-      "published_date": "2026-10-29T17:59:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six lanes and metro line under fire: Kyiv prepares about $22 million for backup river crossings after Russian strike on Southern Bridge",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/six-lanes-and-metro-line-under-fire-kyiv-prepares-about-22-million-for-backup-river-crossings-after-russian-strike-on-southern-bridge/",
-      "published_date": "2026-10-29T17:52:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine should not agree to limits on size of its armed forces – Admiral Bauer",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4179505-ukraine-should-not-agree-to-limits-on-size-of-its-armed-forces-admiral-bauer.html",
-      "published_date": "2026-10-29T17:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "У Києві частково демонтують захисні конструкції на пам’ятниках: фахівці виявили плісняву та руйнування постаментів",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/u-kyyevi-chastkovo-demontuyut-zahysni-konstruktsiyi-na-pam-yatnykah-fahivtsi-vyyavyly-plisnyavu-ta-rujnuvannya-postamentiv/",
-      "published_date": "2026-10-29T17:49:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dnipro railway station strike: EU's chief diplomat urges greater efforts to hold Russia accountable",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060336/",
-      "published_date": "2026-10-29T17:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian drone strikes student accommodation in Dnipro",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060335/",
-      "published_date": "2026-10-29T17:40:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "З тимчасово окупованих територій повернули ще п’ятьох українців: серед них – подружжя з тяжкими пораненнями",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/z-tymchasovo-okupovanyh-terytorij-povernuly-shhe-p-yatoh-ukrayintsiv-sered-nyh-podruzhzhya-z-tyazhkymy-poranennyamy/",
-      "published_date": "2026-10-29T17:32:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russian attack on Kremenchuk kills three and raises injury toll to 28",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179469-russian-attack-on-kremenchuk-kills-three-and-raises-injury-toll-to-28.html",
-      "published_date": "2026-10-29T17:31:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Сили оборони знищили два російські Су-34 на аеродромі “Маринівка” у Волгоградській області ракетами “Нептун”",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/syly-oborony-znyshhyly-dva-rosijski-su-34-na-aerodromi-marynivka-u-volgogradskij-oblasti-raketamy-neptun/",
-      "published_date": "2026-10-29T17:00:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump administration \"strongly encouraging\" US companies to accept Russian diesel – The Washington Sun",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060330/",
-      "published_date": "2026-10-29T17:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Attack on Chernihiv city center leaves two dead and raises injury toll to 25",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179467-attack-on-chernihiv-city-center-leaves-two-dead-and-raises-injury-toll-to-25.html",
-      "published_date": "2026-10-29T16:57:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Представники України, США та рф дісталися пункту, звідки везтимуть гуманітарну допомогу в Олешки – Арахамія",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/predstavnyky-ukrayiny-ssha-ta-rf-distalysya-punktu-zvidky-veztymut-gumanitarnu-dopomogu-v-oleshky-arahamiya/",
-      "published_date": "2026-10-29T16:49:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everyone's afraid, but they're pressing on: how the local ceasefire in Oleshky became a test for a broader deal",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060328/",
-      "published_date": "2026-10-29T16:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Щомісяця росія виробляє до 3 тисяч реактивних дронів і планує нарощувати їх кількість, – Флеш",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/shhomisyatsya-rosiya-vyroblyaye-do-3-tysyach-reaktyvnyh-droniv-i-planuye-naroshhuvaty-yih-kilkist-flesh/",
-      "published_date": "2026-10-29T16:36:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia’s October losses hit record high of 49,040 with three days left, Ukraine says",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/russias-october-losses-hit-record-high/",
-      "published_date": "2026-10-29T16:32:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Private military company destroys more than 60 targets using automated turrets",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179465-private-military-company-destroys-more-than-60-targets-using-automated-turrets.html",
-      "published_date": "2026-10-29T16:32:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ukraine and the Netherlands team up on missile defense as Europe plans its own missile killer, free of US approval",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/bliksem/",
-      "published_date": "2026-10-29T16:27:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Joint US, Ukrainian and Russian delegation reaches starting point for Oleshky aid delivery",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060322/",
-      "published_date": "2026-10-29T16:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukrainian defence forces destroy two Russian Su-34 fighter jets with Neptune missiles at Russian airfield",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060323/",
-      "published_date": "2026-10-29T16:27:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Russian drone attacks community bus in Zaporizhzhia Oblast, killing 71-year-old woman – photos",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060318/",
-      "published_date": "2026-10-29T16:17:00Z",
-      "category": "Local Events"
-    },
-    {
       "title": "Over 25,000 consumers left without power in Dnipro",
       "source": "Ukrainska Pravda",
       "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060316/",
       "published_date": "2026-10-29T16:03:00Z",
       "category": "Energy"
-    },
-    {
-      "title": "Flash: Ukraine has developed five effective interceptors for jet-powered drones",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-ato/4179460-flash-ukraine-has-developed-five-effective-interceptors-for-jetpowered-drones.html",
-      "published_date": "2026-10-29T15:57:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Наступне засідання “Рамштайну” відбудеться у середині листопада в штаб-квартирі НАТО в Брюсселі",
-      "source": "Rubryka",
-      "url": "https://rubryka.com/en/2026/10/29/nastupne-zasidannya-ramshtajnu-vidbudetsya-u-seredyni-lystopada-v-shtab-kvartyri-nato-v-bryusseli/",
-      "published_date": "2026-10-29T15:47:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "FM Sybiha: Russia’s deliberate attacks on civilians are Putin’s real response to easing sanctions",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-polytics/4179454-fm-sybiha-russias-deliberate-attacks-on-civilians-are-putins-real-response-to-easing-sanctions.html",
-      "published_date": "2026-10-29T15:32:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russian forces attack Izium with guided aerial bombs: injured pulled from rubble",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060312/",
-      "published_date": "2026-10-29T15:21:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Some European diplomats doubt Seoul over what they see as a tilt toward Russia during Moscow’s war on Ukraine, but Seoul says it backs ending the war, FT reports",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/some-european-diplomats-doubt-seoul-over-what-they-see-as-a-tilt-toward-russia-during-moscows-war-on-ukraine-but-seoul-says-it-backs-ending-the-war-ft-reports/",
-      "published_date": "2026-10-29T14:25:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia’s sanctioned top diplomat heads to the US to campaign against the sanctions on its war",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/29/russias-sanctioned-top-diplomat-heads-to-the-us-to-campaign-against-the-sanctions-on-its-war/",
-      "published_date": "2026-10-29T14:03:05Z",
-      "category": "Diplomacy"
     },
     {
       "title": "Ukraine's economy enters recession: National Bank forecasts 0.4% fall in GDP",
@@ -430,32 +479,11 @@
       "category": "Economy"
     },
     {
-      "title": "Zelenskyy calls for tougher sanctions after Russian attack on Dnipro",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060289/",
-      "published_date": "2026-10-29T13:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ukraine's Foreign Ministry comments on appointment of Russian as UN deputy secretary-general",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060282/",
-      "published_date": "2026-10-29T12:43:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "National Bank raises key policy rate to 16.5%",
       "source": "Ukrinform",
       "url": "https://www.ukrinform.net/rubric-economy/4179372-national-bank-raises-key-policy-rate-to-165.html",
       "published_date": "2026-10-29T12:31:00Z",
       "category": "Economy"
-    },
-    {
-      "title": "Putin proposes to relocate Russian factories to Africa",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/29/8060276/",
-      "published_date": "2026-10-29T12:19:00Z",
-      "category": "Diplomacy"
     },
     {
       "title": "Ukraine verifies whether Russia has resumed Black Sea grain exports",
@@ -658,41 +686,6 @@
       "source": "Rubryka",
       "url": "https://rubryka.com/en/2026/10/24/uryad-zaminyv-predstavnyka-ukrayiny-v-investytsijnomu-fondi-vidbudovy-zi-ssha/",
       "published_date": "2026-10-24T10:59:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Kyiv's power ring under attack: why the capital faces a winter of blackouts",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/articles/2026/10/24/8059524/",
-      "published_date": "2026-10-24T10:06:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Poltava region receives over 130 generators from Germany",
-      "source": "Ukrinform",
-      "url": "https://www.ukrinform.net/rubric-society/4177314-poltava-region-receives-over-130-generators-from-germany.html",
-      "published_date": "2026-10-23T21:26:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ukraine's electricity exports halve due to Russian strikes – Energy Map",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059462/",
-      "published_date": "2026-10-23T16:17:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Russia raises inflation forecast for 2026",
-      "source": "Ukrainska Pravda",
-      "url": "https://www.pravda.com.ua/eng/news/2026/10/23/8059419/",
-      "published_date": "2026-10-23T12:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The money starts as bags of cash in a Moscow market and ends up clean in China, leaked files show",
-      "source": "Euromaidan Press",
-      "url": "https://euromaidanpress.com/2026/10/23/the-money-starts-as-bags-of-cash-in-a-moscow-market-and-ends-up-clean-in-china-leaked-files-show/",
-      "published_date": "2026-10-23T12:19:31Z",
       "category": "Economy"
     }
   ]
